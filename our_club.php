@@ -1,3 +1,7 @@
+<?php 
+  $current_page = "our_club.php";
+?>
+
 <!doctype html>
 <html lang="en">
 

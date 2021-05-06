@@ -1,3 +1,7 @@
+<?php 
+  $current_page = "feedback.php";
+?>
+
 <!doctype html>
 <html lang="en">
 
