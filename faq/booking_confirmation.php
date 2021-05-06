@@ -1,0 +1,9 @@
+<div style="background-color:#7a056e; color:white; padding:20px; font-size:22px; margin-left:20px;">RESERVATIONS & ACCOMMODATION</div>
+
+<div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px; margin-left:20px;">7. BOOKING CONFIRMATION</div>
+
+<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; margin-left:20px; line-height:150%;">I can't download / open / view my booking confirmation letter?</div>
+<p style="padding:0px 20px 0px 40px;">The confirmation document you have received is in a .pdf format. This is the standard format for Adobe Acrobat reader. If you do not have Adobe Acrobat reader it can be downloaded for free from <a class="purpleLinks" href="http://www.adobe.com/" target="_blank">www.adobe.com.</a> It also comes standard with most other software packages on the market. If you continue to experience problems, please contact us.</p>
+
+<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; margin-left:20px; line-height:150%;">I have been waitlisted, what does this mean?</div>
+<p style="padding:0px 20px 0px 40px;">Wait listing is an RCI service that enables the Club to load a booking request for our clients, in cases where a resort or area is fully booked at the time the booking is requested. If a booking request match later becomes available, the RCI system automatically matches that availability to the member on the waitlist. The member will be informed, by RCI directly, via Fax, Email, or SMS. The member should also receive regular correspondence from RCI concerning waitlist availability, so please ensure that your contact details on the RCI system are correct.</p>

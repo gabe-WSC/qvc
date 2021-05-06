@@ -1,0 +1,14 @@
+<h1 class="grey" style="padding-left:30px;">AUGUST 2012<br/>MEMBER FEEDBACK</h1>
+
+<div class="feedbackGrey">AAN WIE DIT MAG TOEKOM. Gradering van diens ontvang op 13 Augustus 2012
+Dit is met graagte dat ek terugvoering gee oor diens wat ek vandag van Danielle ontvang het. Wat 'n plesier is dit om met hierdie dame te konsulteer.  Ek doen gewoonlik die besprekings per e-pos omdat telefoniese besprekings werklik te duur is.  Sy beantwoord die e-posse besonder vinnig en sy doen werklik moeite om besprekings te bekom.  As daar nie vir 'n spesifieke datum plek beskikbaar is nie sal sy altyd terugkom met 'n alternatiewe voorstel.  Die kere wat ek tog wel met haar telefonies in verbinding was, was dit net 'n plesier.  Sy is professioneel, maar aan vriendelikheid en behulpsaamheid is daar by haar geen gebrek nie en sy bedien my in Afrikaans wat dit vir my soveel makliker maak. Dra asseblief my innige dank aan Danielle oor. Dankie ook aan QVC in die algemeen. Vriendelike groete - Mev. E. Valda De Villiers</div>
+
+<div class="feedbackWhite">Dear Jacques, Thanks for the email and the excellent service received. All in order. Looking forward to the holiday. Regards - Mrs F Ely</div>
+
+<div class="feedbackGrey">For the Managing Director of QVC. Dear Sir, I want to commend Linda. She was cheerful and helpful and was easy to talk to. She needs commendation as she is an asset to your organisation. Kind Regards - M E MacFadyen</div>
+
+<div class="feedbackWhite">Natasja, Baie dankie vir al die moeite wat jy gedoen het om op 'n laat stadium vir my te help om 'n bespreking te maak. Ek is seker die Amerikaners gaan die besoek aan Mpumalanga en veral die Kruger Wildtuin , wat hulle baie graag wil besoek geniet. Ons sal graag weer van jou dienste gebruik maak, aangesien dit nie die eerste keer is wat jy baie moeite gedoen het nie. Baie dankie - Anna En Pine Papenfus</div>
+
+<div class="feedbackGrey">Goeie dag Ruan, Baie dankie vir jou vriendelike en behulpsame diens, ek waardeer dit baie. Jou klienteskakeling is uitstaande. Jy sal dit nog ver bring met jou professionele dienslewering. Ons wens jou 'n wonderlike toekoms toe, waar jy jou talente aanwend. Hoop jy kom nog baie ver in hierdie maarskappy. Vriendelike groete - Mnr R en Mev F Van Mazijk</div>
+
+<div class="feedbackWhite">Good Afternoon, I would like to commend the excellent service given by one of the Call Centre Consultants. If you give out Awards she needs one. Her name is Doney. She has excellent people skills is very well mannered and tried her hardest to give me what I was looking for. She also gave me the time of day and nothing is rushed even to the point of giving me suggestions to make my holiday more comfortable.  Doney is truely an asset to your business. I will be sure to ask for her next time I want to book a holiday. Thank you and have a good day. - Mrs. Patricia Marsh</div>
