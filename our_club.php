@@ -46,7 +46,7 @@
           </p>
           <br><br>
           <h2>MEMBER BENEFITS</h2>
-          <div class="d-flex flex-column mb-3 flex-sm-column flex-lg-row flex-md-row">
+          <div class="d-flex flex-column mb-3 flex-md-column flex-sm-column flex-lg-row flex-md-row">
             <div class="outerWrapperBenefits member-benefit-block">
               <h2 class="white">BENEFIT #1</h2>
               <p class="blockTextWhite">At our QVC Club Resorts, excellence and member experiences is at the heart of

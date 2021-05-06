@@ -35,7 +35,7 @@ resortData('manzi monate');
         <h2 class="grey">GAUTENG</h2>
     <div class="row d-flex pt-4">
       <div class="left-div layout-margin-right">
-        <div class="example-image">
+        <div class="example-image d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center">
           <img src="../images/resorts/manzi_monate/manzi_monate_cover.jpg" alt="" width="325"
             height="300">
             <a href="../images/resorts/mabalingwe_nature_reserve/mabalingwe_nature_reserve_cover_large.jpg" class="photoGallery example-image-link" data-lightbox="manzi_monate" data-title="Manzi Monate">view photo gallery &gt;</a>
@@ -52,7 +52,7 @@ resortData('manzi monate');
                                                 <a class="example-image-link" href="../images/resorts/manzi_monate/manzi_monate_large11.jpg" data-lightbox="manzi_monate" data-title="Manzi Monate"></a>
 
         </div>
-        <div class="image-grid d-flex py-4">
+        <div class="image-grid d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center py-4">
           <a href="../images/resorts/manzi_monate/manzi_monate_large1.jpg" data-lightbox="manzi_monate2"
             data-title="Manzi Monate"><img src="../images/resorts/manzi_monate/manzi_monate_small1.jpg"
               border="0" style="padding-right: 15px"></a>
@@ -62,7 +62,7 @@ resortData('manzi monate');
         </div>
 
 
-        <div class="image-grid d-flex pb-4">
+        <div class="image-grid d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center pb-4">
           <a href="../images/resorts/manzi_monate/manzi_monate_large3.jpg" data-lightbox="manzi_monate4"
             data-title="Manzi Monate"><img src="../images/resorts/manzi_monate/manzi_monate_small2.jpg"
               border="0" style="padding-right: 15px"></a>

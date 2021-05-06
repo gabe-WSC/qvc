@@ -11,7 +11,7 @@
         <ul class="navbar-nav menu" style="margin-left: 30%">
           <li class="d-flex align-self-end"><a href="../resort_portfolio.php" class="d-flex justify-content-center">Resort Portfolio<span
                 class="pull-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a></li>
-          <li class="d-flex align-self-end"><a href="our_club.php" class="active">Our Club<span class="pull-right"><i class="fa fa-angle-right"
+          <li class="d-flex align-self-end"><a href="../our_club.php" class="active">Our Club<span class="pull-right"><i class="fa fa-angle-right"
                   aria-hidden="true"></i></span></a></li>
           <li class="d-flex align-self-end"><a href="../feedback.php">Member Feedback<span class="pull-right"><i class="fa fa-angle-right"
                   aria-hidden="true"></i></span></a></li>

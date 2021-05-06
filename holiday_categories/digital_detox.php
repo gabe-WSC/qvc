@@ -61,7 +61,7 @@ resortData('baywater village');
                     <div>
                     DOORNKOP FISH & WILDLIFE RESERVER
                     </div>
-                        <br> <div class="mt-auto"><a href="../resorts/doornkop.php" class="innerWrapperResort">explore &gt;</a></div>
+                         <div class="mt-auto"><a href="../resorts/doornkop.php" class="innerWrapperResort">explore &gt;</a></div>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort digital_detox"><img
@@ -71,7 +71,7 @@ resortData('baywater village');
                     <div>
                     KAGGA KAMMA NATURE RESERVE
                     </div>
-                        <br> <div class="mt-auto"><a href="../resorts/kagga_kamma.php" class="innerWrapperResort">explore &gt;</a></div>
+                         <div class="mt-auto"><a href="../resorts/kagga_kamma.php" class="innerWrapperResort">explore &gt;</a></div>
                     </div>
                 </div>
                
@@ -83,7 +83,7 @@ resortData('baywater village');
                     MNARANI
                     </div>                        
  
-                        <div class="mt-auto"><a href="../resorts//mnarani.php" class="innerWrapperResort">explore &gt;</a></div>
+                        <div class="mt-auto"><a href="../resorts/mnarani.php" class="innerWrapperResort">explore &gt;</a></div>
                     </div>
                 </div>
 

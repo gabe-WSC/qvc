@@ -35,7 +35,7 @@ resortData('modumela');
         <h2 class="grey">BOTSWANA</h2>
     <div class="row d-flex pt-4">
       <div class="left-div layout-margin-right">
-        <div class="example-image">
+        <div class="example-image d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center">
           <img src="../images/resorts/modumela_lodge/modumela_lodge_cover.jpg" alt="" width="325"
             height="300">
             <a href="../images/resorts/modumela_lodge/modumela_lodge_cover_large.jpg" class="photoGallery example-image-link" data-lightbox="modumela_lodge" data-title="Modumela Lodge">view photo gallery &gt;</a>
@@ -51,7 +51,7 @@ resortData('modumela');
                                                 <a class="example-image-link" href="../images/resorts//modumela_lodge/modumela_lodge_large10.jpg" data-lightbox="modumela_lodge" data-title="Modumela Lodge"></a>
                                                 <a class="example-image-link" href="../images/resorts//modumela_lodge/modumela_lodge_large11.jpg" data-lightbox="modumela_lodge" data-title="Modumela Lodge"></a>
         </div>
-        <div class="image-grid d-flex py-4">
+        <div class="image-grid d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center py-4">
           <a href="../images/resorts/modumela_lodge/modumela_lodge_large1.jpg" data-lightbox="modumela_lodge2"
             data-title="Modumela Lodge"><img src="../images/resorts/modumela_lodge/modumela_lodge_small1.jpg"
               border="0" style="padding-right: 15px"></a>
@@ -61,7 +61,7 @@ resortData('modumela');
         </div>
 
 
-        <div class="image-grid d-flex pb-4">
+        <div class="image-grid d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center pb-4">
           <a href="../images/resorts/modumela_lodge/modumela_lodge_large3.jpg" data-lightbox="modumela_lodge4"
             data-title="Modumela Lodge"><img src="../images/resorts/modumela_lodge/modumela_lodge_small3.jpg"
               border="0" style="padding-right: 15px"></a>
