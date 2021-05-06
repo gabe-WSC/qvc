@@ -16,8 +16,8 @@ $current_page = "resort_portfolio.php";
 
 <body>
 
-<?php include('includes/nav.php');?>
-<?php include('includes/second_nav.php');?>
+    <?php include('includes/nav.php');?>
+    <?php include('includes/second_nav.php');?>
 
 
     <!-- jumbotron/header -->
@@ -45,116 +45,99 @@ $current_page = "resort_portfolio.php";
                 <div class="d-flex outerWrapperBenefits outerWrapperResort"><img
                         src="images/holiday_categories/family.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        FAMILY HOLIDAYS
-                        <a href="holiday_categories/family.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>FAMILY HOLIDAYS</div>
+                        <a href="holiday_categories/family.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
-                <div class="d-flex outerWrapperBenefits outerWrapperResort pamper"><img src="images/holiday_categories/spa.jpg"
-                        width="70" height="70" alt="Family Holidays">
+                <div class="d-flex outerWrapperBenefits outerWrapperResort pamper"><img
+                        src="images/holiday_categories/spa.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        PAMPER / SPA BREAKS&nbsp;&nbsp;&nbsp;<br>
-                        <a href="holiday_categories/spa.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>PAMPER / SPA BREAKS</div>
+                        <a href="holiday_categories/spa.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort bush"><img
                         src="images/holiday_categories/wildlife.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        BUSH &amp; WILDLIFE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-                        <a href="holiday_categories/wildlife.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>BUSH WILDLIFE</div>
+                        <a href="holiday_categories/wildlife.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
-                <!-- <div class="outerWrapperBenefits outerWrapperResort"><img src="images/holiday_categories/spa.jpg"
-                        width="70" height="70" alt="Family Holidays"></div>
-                <div class="outerWrapperBenefits outerWrapperResort"><img src="images/holiday_categories/wildlife.jpg"
-                        width="70" height="70" alt="Wildlife"></div> -->
-            </div>
-
-            <div class="row d-flex justify-content-between">
                 <div class="d-flex outerWrapperBenefits outerWrapperResort adventure"><img
                         src="images/holiday_categories/adventure.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        ADVENTURE &amp; SPORT&nbsp;&nbsp;&nbsp;<br>
-                        <br> <a href="holiday_categories/adventure.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>ADVENTURE SPORT</div>
+                        <br> <a href="holiday_categories/adventure.php" class="innerWrapperResort mt-auto">explore
+                            &gt;</a>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort beach"><img
                         src="images/holiday_categories/beach.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        BEACH &amp; SEASIDE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-                        <a href="holiday_categories/beach.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>BEACH SEASIDE</div>
+                        <a href="holiday_categories/beach.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort cultural"><img
                         src="images/holiday_categories/cultural.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        CULTURAL GETAWAYS &nbsp;&nbsp;&nbsp;&nbsp;<br>
-                        <a href="holiday_categories/cultural.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>CULTURAL GETAWAYS</div>
+                        <a href="holiday_categories/cultural.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
-            </div>
-            <div class="row d-flex justify-content-between">
-
                 <div class="d-flex outerWrapperBenefits outerWrapperResort nature"><img
                         src="images/holiday_categories/nature.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        NATURE ESCAPES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-                        <a href="holiday_categories/nature.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>NATURE ESCAPES</div>
+                        <a href="holiday_categories/nature.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort international"><img
                         src="images/holiday_categories/africa.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        INTO AFRICA
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-                        <a href="holiday_categories/international.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>INTO AFRICA</div>
+                        <a href="holiday_categories/international.php" class="innerWrapperResort mt-auto">explore
+                            &gt;</a>
                     </div>
                 </div>
                 <div class="d-flex outerWrapperBenefits outerWrapperResort sub_urban"><img
                         src="images/holiday_categories/sub_urban.jpg" width="70" height="70" alt="Family Holidays">
                     <div class="innerResortDetails d-flex flex-column">
-                        SUB - URBAN BREAKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-                        <a href="holiday_categories/sub_urban.php" class="innerWrapperResort">explore &gt;</a>
+                        <div>SUB - URBAN BREAKS</div>
+                        <a href="holiday_categories/sub_urban.php" class="innerWrapperResort mt-auto">explore &gt;</a>
                     </div>
                 </div>
-            </div>
-
-            <div class="row d-flex justify-content-between">
-
                 <div class="d-flex outerWrapperBenefits outerWrapperResort romantic"><img
-                    src="images/holiday_categories/romantic.jpg" width="70" height="70" alt="Family Holidays">
-                <div class="innerResortDetails d-flex flex-column">
-                    ROMANTIC RETREATS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-                    <a href="holiday_categories/nature.php" class="innerWrapperResort">explore &gt;</a>
+                        src="images/holiday_categories/romantic.jpg" width="70" height="70" alt="Family Holidays">
+                    <div class="innerResortDetails d-flex flex-column">
+                        <div>ROMANTIC RETREATS</div>
+                        <a href="holiday_categories/nature.php" class="innerWrapperResort mt-auto">explore &gt;</a>
+                    </div>
                 </div>
-            </div>
-            <div class="d-flex outerWrapperBenefits outerWrapperResort lone_traveller"><img
-                    src="images/holiday_categories/lone_traveller.jpg" width="70" height="70" alt="Family Holidays">
-                <div class="innerResortDetails d-flex flex-column">
-                    LONE TRAVELLER   
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-                    <a href="holiday_categories/international.php" class="innerWrapperResort">explore &gt;</a>
+                <div class="d-flex outerWrapperBenefits outerWrapperResort lone_traveller"><img
+                        src="images/holiday_categories/lone_traveller.jpg" width="70" height="70" alt="Family Holidays">
+                    <div class="innerResortDetails d-flex flex-column">
+                        <div>LONE TRAVELLER</div>
+                        <a href="holiday_categories/international.php" class="innerWrapperResort mt-auto">explore
+                            &gt;</a>
+                    </div>
                 </div>
-            </div>
-            <div class="d-flex outerWrapperBenefits outerWrapperResort digital_detox"><img
-                    src="images/holiday_categories/digital_detox.jpg" width="70" height="70" alt="Family Holidays">
-                <div class="innerResortDetails d-flex flex-column">
-                    DIGITAL DETOX   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-                    <a href="holiday_categories/sub_urban.php" class="innerWrapperResort">explore &gt;</a>
+                <div class="d-flex outerWrapperBenefits outerWrapperResort digital_detox"><img
+                        src="images/holiday_categories/digital_detox.jpg" width="70" height="70" alt="Family Holidays">
+                    <div class="innerResortDetails d-flex flex-column">
+                        <div>DIGITAL DETOX</div>
+                        <a href="holiday_categories/sub_urban.php" class="innerWrapperResort mt-auto">explore &gt;</a>
+                    </div>
                 </div>
-            </div>
 
-              
             </div>
-
             <div class="row py-4">
-                <div class="map-image mr-4">
-                    <img src="images/FINAL.jpg" width="270" usemap="provinces">
+                <div class="map-image">
+                   
                 </div>
                 <?php include('includes/resort_finder.php');?>
-                
+
             </div>
-
-
             <div class="row d-flex justify-content-between">
                 <div style="height:4px; width:100%; background-color:#7c046d;"></div>
             </div>
@@ -163,16 +146,16 @@ $current_page = "resort_portfolio.php";
 
     </div>
 
-   
+
     <?php include('includes/holiday_category.php');?>
 
-<?php include('includes/bottom_nav.php'); ?>
+    <?php include('includes/bottom_nav.php'); ?>
 
-<?php include('includes/notice_block.php'); ?>
+    <?php include('includes/notice_block.php'); ?>
 
-<?php include('includes/cookie_banner.php'); ?>
+    <?php include('includes/cookie_banner.php'); ?>
 
-<?php include('includes/footer.php'); ?>
+    <?php include('includes/footer.php'); ?>
     </div>
 
     <!-- Optional JavaScript -->
