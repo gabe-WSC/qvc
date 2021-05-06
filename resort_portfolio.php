@@ -132,8 +132,8 @@ $current_page = "resort_portfolio.php";
 
             </div>
             <div class="row py-4">
-                <div class="map-image mr-4">
-                    <img src="images/FINAL.jpg" width="270" usemap="provinces">
+                <div class="map-image">
+                   
                 </div>
                 <?php include('includes/resort_finder.php');?>
 
