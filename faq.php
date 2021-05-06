@@ -1,3 +1,6 @@
+<?php 
+  $current_page = "faq.php";
+?>
 <!doctype html>
 <html lang="en">
 
