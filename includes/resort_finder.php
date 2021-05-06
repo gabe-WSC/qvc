@@ -1,6 +1,6 @@
-<div style="background-color:#dfdfdf;">
+<div style="background-color:#dfdfdf; height: 116px;">
           <div style="text-align:left; padding:15px 10px 20px 14px; width:250px;">
-            <h2 class="grey" style="color:#7a056e"><img src="../images/Magnifying_glass_icon.svg.png" width="18"
+            <h2 class="grey" style="color:#7a056e"><img src="images/Magnifying_glass_icon.svg.png" width="18"
                 height="18"> RESORT FINDER</h2>
           </div>
           <form name="resortForm">

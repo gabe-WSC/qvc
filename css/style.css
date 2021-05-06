@@ -637,6 +637,7 @@ a.innerWrapperResort {
     font-style: italic;
     text-decoration: none;
     color: white;
+    width: 65px;
 }
 
 a.innerWrapperResort:hover {
