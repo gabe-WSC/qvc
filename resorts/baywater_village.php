@@ -85,7 +85,7 @@ resortData('baywater village');
 
 
 
-        <div style="background-color:#e5e5e5; padding:25px;">
+        <div style="background-color:#e5e5e5; padding:25px 15px;">
           <h6 class="grey" style="font-size: 14px;">RELEVANT NOTICES</h6>
           <p class="px-0">
           <?= $notice ?> 
@@ -123,7 +123,7 @@ resortData('baywater village');
         <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
           <h2 class="white">CHALETS</h2>
           <h3 class="whiteItal" style="padding-top:10px;">CHALET TYPES</h3>
-          <p class="blockTextWhite px-0">
+          <p class="blockTextWhite px-0 px-0">
             <?= $chaletTypes ?>
           </p>
 

@@ -103,14 +103,14 @@ resortData('mabalingwe nature reserve');
 
 
 
-        <div style="background-color:#e5e5e5; padding:25px;">
+        <div style="background-color:#e5e5e5; padding:25px 15px;">
           <h6 class="grey" style="font-size: 14px;">RELEVANT NOTICES</h6>
-          <p>
+          <p class="px-0">
             <?= $notice ?>
           </p>
         </div>
 
-        <h3 class="grey">MAP &amp; DIRECTIONS</h3>
+        <h3 class="grey justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center px-3 px-md-0">MAP DIRECTIONS</h3>
 
         <!-- map plugin -->
         <div><iframe width="100%" height="250" id="gmap_canvas"
@@ -133,7 +133,7 @@ resortData('mabalingwe nature reserve');
           <?= $directions ?>
         </p>
 
-        <?php include('../includes/resort_finder.php');?>
+        <?php include('includes/resort_finder.php');?>
 
       </div>
       <div class="right-div">
@@ -141,7 +141,7 @@ resortData('mabalingwe nature reserve');
         <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
           <h2 class="white">CHALETS</h2>
           <h3 class="whiteItal" style="padding-top:10px;">CHALET TYPES</h3>
-          <p class="blockTextWhite">
+          <p class="blockTextWhite px-0">
             <?= $chaletTypes ?>
           </p>
 

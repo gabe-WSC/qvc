@@ -28,37 +28,37 @@
         <div class="explore-column" style="background-color:#c4c4c4;">
           <!-- <h3 class="greyFooter">QVC CLUB DESTINATIONS</h3> -->
           <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">
-            <a href="resorts/baywater_village.php" class="footerLinks">Baywater Village</a>
-            <a href="resorts/caribbean_estates.php" class="footerLinks">Caribbean Estates</a>
-            <a href="resorts/crystal_springs.php" class="footerLinks">Crystal Springs</a>
-    <a href="resorts/doornkop.php" class="footerLinks">Doornkop Fish &amp; Wildlife Reserve</a>
-            <a href="resorts/durban_spa.php" class="footerLinks">Durban Spa</a>
-            <!--<a href="resorts/garden_route_chalets.php" class="footerLinks">Garden Route Chalets</a><br/>-->
-            <a href="resorts/kagga_kamma.php" class="footerLinks">Kagga Kamma</a>
-            <a href="resorts/kridzil.php" class="footerLinks">Kridzil</a>
-            <a href="resorts/kruger_park_lodge.php" class="footerLinks">Kruger Park Lodge</a>
+            <a href="baywater_village.php" class="footerLinks">Baywater Village</a>
+            <a href="caribbean_estates.php" class="footerLinks">Caribbean Estates</a>
+            <a href="crystal_springs.php" class="footerLinks">Crystal Springs</a>
+    <a href="doornkop.php" class="footerLinks">Doornkop Fish &amp; Wildlife Reserve</a>
+            <a href="durban_spa.php" class="footerLinks">Durban Spa</a>
+            <!--<a href="garden_route_chalets.php" class="footerLinks">Garden Route Chalets</a><br/>-->
+            <a href="kagga_kamma.php" class="footerLinks">Kagga Kamma</a>
+            <a href="kridzil.php" class="footerLinks">Kridzil</a>
+            <a href="kruger_park_lodge.php" class="footerLinks">Kruger Park Lodge</a>
         </p>
         </div>
         <div class="explore-column" style="background-color:#c4c4c4;">
           <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">
-            <a href="resorts/little_eden.php" class="footerLinks">Little Eden</a>
-            <a href="resorts/mabalingwe_nature_reserve.php" class="footerLinks">Mabalingwe Nature Reserve</a>
-            <a href="resorts/magaliespark.php" class="footerLinks">Magalies Park</a>
-            <a href="resorts/manzi_monate.php" class="footerLinks">Manzi Monate</a>
-            <a href="resorts/mnarani.php" class="footerLinks">Mnarani</a>
-            <a href="resorts/modumela_lodge.php" class="footerLinks">Modumela Lodge</a>
-            <a href="resorts/monateng_safari_lodge.php" class="footerLinks">Monateng Safari Lodge</a>
-            <a href="resorts/mount_amanzi.php" class="footerLinks">Mount Amanzi</a>
+            <a href="little_eden.php" class="footerLinks">Little Eden</a>
+            <a href="mabalingwe_nature_reserve.php" class="footerLinks">Mabalingwe Nature Reserve</a>
+            <a href="magaliespark.php" class="footerLinks">Magalies Park</a>
+            <a href="manzi_monate.php" class="footerLinks">Manzi Monate</a>
+            <a href="mnarani.php" class="footerLinks">Mnarani</a>
+            <a href="modumela_lodge.php" class="footerLinks">Modumela Lodge</a>
+            <a href="monateng_safari_lodge.php" class="footerLinks">Monateng Safari Lodge</a>
+            <a href="mount_amanzi.php" class="footerLinks">Mount Amanzi</a>
         </p>
         </div>
         <div class="explore-column" style="background-color:#c4c4c4;">
           <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">
-            <a href="resorts/ngwenya_lodge.php" class="footerLinks">Ngwenya Lodge</a>
-            <a href="resorts/sandy_place.php" class="footerLinks">Sandy Place</a>
-            <a href="resorts/st_michaels_sands.php" class="footerLinks">St Michaels Sands</a>
-            <a href="resorts/sudwala_lodge.php" class="footerLinks">Sudwala Lodge</a>
-            <a href="resorts/tortuga.php" class="footerLinks">Tortuga</a>
-            <a href="resorts/uvongo.php" class="footerLinks">Uvongo</a>
+            <a href="ngwenya_lodge.php" class="footerLinks">Ngwenya Lodge</a>
+            <a href="sandy_place.php" class="footerLinks">Sandy Place</a>
+            <a href="st_michaels_sands.php" class="footerLinks">St Michaels Sands</a>
+            <a href="sudwala_lodge.php" class="footerLinks">Sudwala Lodge</a>
+            <a href="tortuga.php" class="footerLinks">Tortuga</a>
+            <a href="uvongo.php" class="footerLinks">Uvongo</a>
         </p>
         </div>
         <div class="explore-column" style="background-color:#dfdfdf;">
