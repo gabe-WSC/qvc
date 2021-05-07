@@ -13,9 +13,6 @@
     <link rel="stylesheet" href="css/accordion.css">
     <title>QVC - FAQs</title>
 
-    <!-- <script src="//code.jquery.com/jquery-1.10.2.js"></script>
-  	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script> -->
-
 </head>
 
 <body>
@@ -258,9 +255,6 @@
             });
         });
     </script>
-    <!-- <script>
-        $("#accordion").accordion();
-    </script> -->
 </body>
 
 </html>

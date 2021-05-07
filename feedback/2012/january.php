@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JANUARY 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JANUARY 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Dear Wilma, (Please forward to your Management Team) Thank you so much  for the absolute professional and efficient service I received from you today, it is most appreciated.
 Regards - Sharon Swart</div>

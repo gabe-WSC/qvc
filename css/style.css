@@ -723,7 +723,6 @@ div.feedbackGrey {
     color: white;
     padding: 10px 20px 10px 20px;
     font-size: 14px;
-    margin-left: 20px;
     line-height: 150%;
 }
 
@@ -732,7 +731,6 @@ div.feedbackWhite {
     color: #aeaeae;
     padding: 10px 20px 10px 20px;
     font-size: 14px;
-    margin-left: 20px;
     line-height: 150%;
 }
 /* end member feedback page */

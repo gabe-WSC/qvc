@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">OCTOBER 2016<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >OCTOBER 2016<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thanks so much for the quick response and I’ve always been very happy with the service received from QVC - there is nothing I can say, but job well done.
 - Gravett</div>

@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">APRIL 2020<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0">APRIL 2020<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">
 Thank you so much. I was just worried knowing that it is lockdown.  I thank you a million times for your great work, you are a star.   - Rafiek Kamaar </div> 

@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">SEPTEMBER 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey" >SEPTEMBER 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Good day Natasja, I would just like to thank you again very much for your assistance and understanding. Your service was outstanding something that is very rare nowadays and that is highly appreciated. Kind Regards - Lamees Jappie</div>
 

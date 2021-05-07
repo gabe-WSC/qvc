@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">MAY 2018<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >MAY 2018<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackWhite">Very helpful and efficient. Always friendly and positive. Shows passion and goes the extra mile!! - Smith</div>       
 

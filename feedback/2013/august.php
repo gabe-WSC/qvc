@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">AUGUST 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >AUGUST 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">After a long break from using my QVC points, I have seen your new campaign and newsletters, and appreciate that you have put renewed energy into using my points available. I received a phone call from a very nice young woman, who explained how booking online was going to make things easier to manage my holidays and points.<br /><br />
 When my husband, Ray, died suddenly in 2007, I kind of lost interest in booking holidays without him. Thanks the wake up call. So I know my fees for QVC are up to date, but am sure the RCI is not. Please send me an address to find out on line what I owe them. I know I am going to need to be up to date before I attempt any bookings.<br /><br />

@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JULY 2015<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JULY 2015<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Dankie vir uitstekende diens en vriendelikheid. - Bianca</div>
 

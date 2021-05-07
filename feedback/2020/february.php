@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">FEBRUARY 2020<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0">FEBRUARY 2020<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">
 Goeie middag, Mev Reider. Baie, baie dankie vir jou opoffering met die aangeleentheid. Ek waardeer dit baie. Jy is 'n ster!  - Johan Cilliers</div> 

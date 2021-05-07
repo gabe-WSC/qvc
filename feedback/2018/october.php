@@ -1,3 +1,3 @@
-<h1 class="grey" style="padding-left:30px;">OCTOBER 2018<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >OCTOBER 2018<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">I would just like to say a big THANK YOU for the excellent service that I got from you on Friday the 26th October 2018. You were absolutely great, I would rate you 10 out of 10 for a job well done.  Keep up the good work. I would like to mention that I have never received this kind of service in the past, so for me this was the best service ever. Thanks again I hope that your team leaders and QVC appreciate you and that you are not just a number. Thanking you kindly. - Studdard</div>       

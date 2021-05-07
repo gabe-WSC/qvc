@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">NOVEMBER 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >NOVEMBER 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thank you so much for arranging and confirming my booking at Baywater Village. I have printed the attachments and will take them with me when I book in at the resort. I am pleased to compliment you on the excellent service given to me in this case. Regards - David Dewar</div>
 

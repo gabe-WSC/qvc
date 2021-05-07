@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">MAY 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >MAY 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Dear Jonathan, Thank-you for the professional manner in which you handled this issue, please could you forward this email to your superiors as they should know when they have a professional they need to look after. - Sean Kinsey</div>
 

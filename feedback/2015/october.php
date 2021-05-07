@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">OCTOBER 2015<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >OCTOBER 2015<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thank you for excellent friendly services. I am rating you 10 out of 10. - Smith</div>
 

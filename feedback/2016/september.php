@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">SEPTEMBER 2016<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >SEPTEMBER 2016<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thank you for your excellent service
 - De Jong</div>

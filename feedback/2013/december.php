@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">DECEMBER 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >DECEMBER 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Many thanks for the friendly and efficient way in which you handled our booking. - Mr/s KC Pureveen</div>
 

@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">SEPTEMBER 2019<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0">SEPTEMBER 2019<br/>MEMBER FEEDBACK</h1>
 <div class="feedbackGrey">
                                    Very helpful, took initiative and knows the system. Helped me to achieve  my goal and took extra effort to make it happen. - Bester
                                 </div> 

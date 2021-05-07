@@ -1,7 +1,6 @@
 <?php 
-  $current_page = "feedback.php";
+  $current_page = "faq.php";
 ?>
-
 <!doctype html>
 <html lang="en">
 
@@ -22,7 +21,7 @@
 <body>
 
 
-    <?php include('includes/nav.php');?>
+    <?php include('./includes/nav.php');?>
     <?php include('includes/second_nav.php');?>
     <div>
 
@@ -36,231 +35,287 @@
     </div>
 
     <div class="container">
+        <div
+            class="row d-flex justify-content-center justify-content-md-start justify-content-lg-start justify-content-xl-start">
+                <h1 class="grey pt-4">FAQs</h1>
+        </div>
         <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-4 pt-4">
+            <div class="left-div layout-margin-right">
                 <div id="nav">
-                    <div id="accordion" style="width:280px;" class="ui-accordion ui-widget ui-helper-reset"
-                        role="tablist">
-
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-accordion-header-active ui-state-active ui-corner-top"
-                            role="tab" id="ui-id-1" aria-controls="ui-id-2" aria-selected="true" aria-expanded="true"
-                            tabindex="0"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-s"></span>2020
-                            FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingOne"
+                                style="background-color:#7a056e; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <label class="btn ui-accordion ui-accordion-header"
+                                        style="color: white; font-size: 24px; text-decoration: none;" type="button"
+                                        data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
+                                        2020 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </label>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: block; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active"
-                            id="ui-id-2" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false">
-                            <a href="feedback/2020/january.php" class="faqLinks">January</a><br>
-                            <a href="feedback/2020/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2020/april.php" class="faqLinks">April</a><br>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: rgb(122, 5, 110); display: block;">
+                                    <a href="feedback/2020/january.php" class="faqLinks">January</a>
+									<a href="feedback/2020/february.php" class="faqLinks">February</a>
+									<a href="feedback/2020/april.php" class="faqLinks">April</a>
+                                </div>
+                            </div>
                         </div>
 
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-corner-all" role="tab"
-                            id="ui-id-3" aria-controls="ui-id-4" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2019 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#5c0150; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                        aria-controls="collapseTwo">
+                                        2019 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-4"
-                            aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2019/january.php" class="faqLinks">January</a><br>
-                            <a href="feedback/2019/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2019/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2019/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2019/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2019/october.php" class="faqLinks">October</a><br>
-
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: rgb(92, 1, 80); display: block; height: 240.6px;">
+                                    <a href="feedback/2019/january.php" class="faqLinks">January</a>
+									<a href="feedback/2019/march.php" class="faqLinks">March</a>
+									<a href="feedback/2019/april.php" class="faqLinks">April</a>
+									<a href="feedback/2019/august.php" class="faqLinks">August</a>
+									<a href="feedback/2019/september.php" class="faqLinks">September</a>
+									<a href="feedback/2019/october.php" class="faqLinks">October</a>
+                                </div>
+                            </div>
                         </div>
 
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-corner-all" role="tab"
-                            id="ui-id-5" aria-controls="ui-id-6" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2018 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#b8b8b8; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        2018 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-6"
-                            aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2018/january.php" class="faqLinks">January</a><br>
-                            <a href="feedback/2018/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2018/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2018/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2018/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2018/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2018/july.php" class="faqLinks">July</a><br>
-                            <a href="feedback/2018/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2018/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2018/october.php" class="faqLinks">October</a><br>
-                            <a href="feedback/2018/november.php" class="faqLinks">November</a><br>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color:#b8b8b8; display: block;">
+                                    <a href="feedback/2018/january.php" class="faqLinks">January</a>
+                                   	<a href="feedback/2018/february.php" class="faqLinks">February</a>
+                                   	<a href="feedback/2018/march.php" class="faqLinks">March</a>
+                                   	<a href="feedback/2018/april.php" class="faqLinks">April</a>
+                                   	<a href="feedback/2018/may.php" class="faqLinks">May</a>
+                                   	<a href="feedback/2018/june.php" class="faqLinks">June</a>
+                                   	<a href="feedback/2018/july.php" class="faqLinks">July</a>
+                                   	<a href="feedback/2018/august.php" class="faqLinks">August</a>
+                                   	<a href="feedback/2018/september.php" class="faqLinks">September</a>
+                                   	<a href="feedback/2018/october.php" class="faqLinks">October</a>
+                                   	<a href="feedback/2018/november.php" class="faqLinks">November</a>
+                                </div>
+                            </div>
                         </div>
 
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-corner-all" role="tab"
-                            id="ui-id-7" aria-controls="ui-id-8" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2017 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
+                                        2017 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-id-8"
-                            aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2017/january.php" class="faqLinks">January</a><br>
-                            <a href="feedback/2017/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2017/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2017/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2017/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2017/july.php" class="faqLinks">July</a><br>
-                            <a href="feedback/2017/august.php" class="faqLinks">August</a><br>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2017/january.php" class="faqLinks">January</a>
+                                   	<a href="feedback/2017/february.php" class="faqLinks">February</a>
+                                   	<a href="feedback/2017/april.php" class="faqLinks">April</a>
+                                   	<a href="feedback/2017/may.php" class="faqLinks">May</a>
+                                    <a href="feedback/2017/june.php" class="faqLinks">June</a>
+                                    <a href="feedback/2017/july.php" class="faqLinks">July</a>
+                                    <a href="feedback/2017/august.php" class="faqLinks">August</a>
+                                </div>
+                            </div>
                         </div>
 
-
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab"
-                            id="ui-id-9" aria-controls="ui-id-10" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2016 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        2016 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom"
-                            id="ui-id-10" aria-labelledby="ui-id-9" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2016/january.php" class="faqLinks">January</a><br>
-                            <a href="feedback/2016/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2016/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2016/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2016/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2016/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2016/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2016/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2016/october.php" class="faqLinks">October</a><br>
-                            <a href="feedback/2016/november.php" class="faqLinks">November</a><br>
-                            <a href="feedback/2016/december.php" class="faqLinks">December</a>
-
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2016/january.php" class="faqLinks">January</a>
+									<a href="feedback/2016/february.php" class="faqLinks">February</a>
+									<a href="feedback/2016/march.php" class="faqLinks">March</a>
+									<a href="feedback/2016/april.php" class="faqLinks">April</a>
+									<a href="feedback/2016/may.php" class="faqLinks">May</a>
+                                    <a href="feedback/2016/june.php" class="faqLinks">June</a>
+                                    <a href="feedback/2016/august.php" class="faqLinks">August</a>
+                                    <a href="feedback/2016/september.php" class="faqLinks">September</a>
+                                     <a href="feedback/2016/october.php" class="faqLinks">October</a>
+                                     <a href="feedback/2016/november.php" class="faqLinks">November</a>
+                                      <a href="feedback/2016/december.php" class="faqLinks">December</a>
+                                </div>
+                            </div>
                         </div>
 
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseSix" aria-expanded="false"
+                                        aria-controls="collapseSix">
+                                        2015 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2015/december.php" class="faqLinks">December</a>
+                                	<a href="feedback/2015/november.php" class="faqLinks">November</a>
+                                    <a href="feedback/2015/october.php" class="faqLinks">October</a>
+                                    <a href="feedback/2015/september.php" class="faqLinks">September</a>
+                                    <a href="feedback/2015/august.php" class="faqLinks">August</a>
+                                    <a href="feedback/2015/july.php" class="faqLinks">July</a>
+                                    <a href="feedback/2015/june.php" class="faqLinks">June</a>
+                                    <a href="feedback/2015/may.php" class="faqLinks">May</a>
+                                    <a href="feedback/2015/april.php" class="faqLinks">April</a>
+                                    <a href="feedback/2015/march.php" class="faqLinks">March</a>
+                                    <a href="feedback/2015/february.php" class="faqLinks">February</a>
+                                    <a href="feedback/2015/january.php" class="faqLinks">January</a>
+                                </div>
+                            </div>
+                        </div>
 
-                        <h3 style="background-color:#7a056e; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab"
-                            id="ui-id-11" aria-controls="ui-id-12" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2015 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false"
+                                        aria-controls="collapseSeven">
+                                        2014 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(122, 5, 110); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom"
-                            id="ui-id-12" aria-labelledby="ui-id-11" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2015/december.php" class="faqLinks">December</a><br>
-                            <a href="feedback/2015/november.php" class="faqLinks">November</a><br>
-                            <a href="feedback/2015/october.php" class="faqLinks">October</a><br>
-                            <a href="feedback/2015/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2015/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2015/july.php" class="faqLinks">July</a><br>
-                            <a href="feedback/2015/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2015/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2015/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2015/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2015/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2015/january.php" class="faqLinks">January</a>
-                        </div>
-                        <h3 style="background-color:#5c0150; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-corner-all" role="tab"
-                            id="ui-id-13" aria-controls="ui-id-14" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2014 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2014/december.php" class="faqLinks">December</a>
+                                    <a href="feedback/2014/november.php" class="faqLinks">November</a>
+                                    <a href="feedback/2014/october.php" class="faqLinks">October</a>
+                                    <a href="feedback/2014/september.php" class="faqLinks">September</a>
+                                    <a href="feedback/2014/august.php" class="faqLinks">August</a>
+                                    <a href="feedback/2014/july.php" class="faqLinks">July</a>
+                                    <a href="feedback/2014/june.php" class="faqLinks">June</a>
+                                    <a href="feedback/2014/may.php" class="faqLinks">May</a>
+                                    <a href="feedback/2014/april.php" class="faqLinks">April</a>
+                                    <a href="feedback/2014/march.php" class="faqLinks">March</a>
+                                    <a href="feedback/2014/february.php" class="faqLinks">February</a>
+                                    <a href="feedback/2014/january.php" class="faqLinks">January</a>
+                                </div>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(92, 1, 80); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom"
-                            id="ui-id-14" aria-labelledby="ui-id-13" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2014/december.php" class="faqLinks">December</a><br>
-                            <a href="feedback/2014/november.php" class="faqLinks">November</a><br>
-                            <a href="feedback/2014/october.php" class="faqLinks">October</a><br>
-                            <a href="feedback/2014/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2014/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2014/july.php" class="faqLinks">July</a><br>
-                            <a href="feedback/2014/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2014/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2014/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2014/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2014/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2014/january.php" class="faqLinks">January</a>
                         </div>
-                        <h3 style="background-color:#b8b8b8; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-corner-all ui-accordion-icons" role="tab"
-                            id="ui-id-15" aria-controls="ui-id-16" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2013 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseEight" aria-expanded="false"
+                                        aria-controls="collapseEight">
+                                        2013 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(184, 184, 184); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom"
-                            id="ui-id-16" aria-labelledby="ui-id-15" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2013/december.php" class="faqLinksDark">December</a><br>
-                            <a href="feedback/2013/november.php" class="faqLinksDark">November</a><br>
-                            <a href="feedback/2013/october.php" class="faqLinksDark">October</a><br>
-                            <a href="feedback/2013/september.php" class="faqLinksDark">September</a><br>
-                            <a href="feedback/2013/august.php" class="faqLinksDark">August</a><br>
-                            <a href="feedback/2013/july.php" class="faqLinksDark">July</a><br>
-                            <a href="feedback/2013/june.php" class="faqLinksDark">June</a><br>
-                            <a href="feedback/2013/may.php" class="faqLinksDark">May</a><br>
-                            <a href="feedback/2013/april.php" class="faqLinksDark">April</a><br>
-                            <a href="feedback/2013/march.php" class="faqLinksDark">March</a><br>
-                            <a href="feedback/2013/february.php" class="faqLinksDark">February</a><br>
-                            <a href="feedback/2013/january.php" class="faqLinksDark">January</a>
-                        </div>
-                        <h3 style="background-color:#7c7c7c; color:white; font-size:24px; line-height:100%;"
-                            class="ui-accordion-header ui-state-default ui-accordion-icons ui-corner-all" role="tab"
-                            id="ui-id-17" aria-controls="ui-id-18" aria-selected="false" aria-expanded="false"
-                            tabindex="-1"><span
-                                class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>2012 FEEDBACK
-                            <div
-                                style="position:absolute; width:240px; height:1px; background-color:white; margin-top:8px;">
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2013/december.php" class="faqLinksDark">December</a>
+                                    <a href="feedback/2013/november.php" class="faqLinksDark">November</a>
+                                    <a href="feedback/2013/october.php" class="faqLinksDark">October</a>
+                                    <a href="feedback/2013/september.php" class="faqLinksDark">September</a>
+                                    <a href="feedback/2013/august.php" class="faqLinksDark">August</a>
+                                    <a href="feedback/2013/july.php" class="faqLinksDark">July</a>
+                                    <a href="feedback/2013/june.php" class="faqLinksDark">June</a>
+                                    <a href="feedback/2013/may.php" class="faqLinksDark">May</a>
+                                    <a href="feedback/2013/april.php" class="faqLinksDark">April</a>
+                                    <a href="feedback/2013/march.php" class="faqLinksDark">March</a>
+                                    <a href="feedback/2013/february.php" class="faqLinksDark">February</a>
+                                    <a href="feedback/2013/january.php" class="faqLinksDark">January</a>
+                                </div>
                             </div>
-                        </h3>
-                        <div style="background-color: rgb(124, 124, 124); display: none; height: 240.6px;"
-                            class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom"
-                            id="ui-id-18" aria-labelledby="ui-id-17" role="tabpanel" aria-hidden="true">
-                            <a href="feedback/2012/december.php" class="faqLinks">December</a><br>
-                            <a href="feedback/2012/november.php" class="faqLinks">November</a><br>
-                            <a href="feedback/2012/october.php" class="faqLinks">October</a><br>
-                            <a href="feedback/2012/september.php" class="faqLinks">September</a><br>
-                            <a href="feedback/2012/august.php" class="faqLinks">August</a><br>
-                            <a href="feedback/2012/july.php" class="faqLinks">July</a><br>
-                            <a href="feedback/2012/june.php" class="faqLinks">June</a><br>
-                            <a href="feedback/2012/may.php" class="faqLinks">May</a><br>
-                            <a href="feedback/2012/april.php" class="faqLinks">April</a><br>
-                            <a href="feedback/2012/march.php" class="faqLinks">March</a><br>
-                            <a href="feedback/2012/february.php" class="faqLinks">February</a><br>
-                            <a href="feedback/2012/january.php" class="faqLinks">January</a>
                         </div>
+
+                        <div class="card border-0">
+                            <div class="card-header" id="headingTwo"
+                                style="background-color:#7c7c7c; color:white; line-height:100%;">
+                                <h2 class="my-0 accordion_header d-flex justify-content-center">
+                                    <button class="btn btn-link collapsed" type="button"
+                                        style="color: white; font-size: 24px; text-decoration: none;"
+                                        data-toggle="collapse" data-target="#collapseNine" aria-expanded="false"
+                                        aria-controls="collapseNine">
+                                        2012 FEEDBACK <i class="fas fa-caret-down"></i>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingFour"
+                                data-parent="#accordionExample">
+                                <div class="card-body d-flex flex-column align-items-center"
+                                    style="background-color: #7c7c7c; display: block;">
+                                    <a href="feedback/2012/december.php" class="faqLinks">December</a>
+                                    <a href="feedback/2012/november.php" class="faqLinks">November</a>
+                                    <a href="feedback/2012/october.php" class="faqLinks">October</a>
+                                    <a href="feedback/2012/september.php" class="faqLinks">September</a>
+                                    <a href="feedback/2012/august.php" class="faqLinks">August</a>
+                                    <a href="feedback/2012/july.php" class="faqLinks">July</a>
+                                    <a href="feedback/2012/june.php" class="faqLinks">June</a>
+                                    <a href="feedback/2012/may.php" class="faqLinks">May</a>
+                                    <a href="feedback/2012/april.php" class="faqLinks">April</a>
+                                    <a href="feedback/2012/march.php" class="faqLinks">March</a>
+                                    <a href="feedback/2012/february.php" class="faqLinks">February</a>
+                                    <a href="feedback/2012/january.php" class="faqLinks">January</a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
 
-
-            <div class="col-sm-12 col-md-12 col-lg-8 pl-4">
-                <h1 class="mt-4 grey pl-4">FAQs</h1>
+            <div class="right-div pt-4 pt-md-0 pt-lg-0">
+                <!-- <h1 class="mt-4 grey pl-4">FAQs</h1> -->
                 <!-- <h2>QVC About Us</h2> -->
                 <div id="content">
                     <div style="background-color:#7a056e; color:white; padding:20px; font-size:22px;">
@@ -328,79 +383,34 @@
 
         </div>
     </div>
-    <!-- Holiday Catagories -->
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 holiday-catagories-section section text-center">
-                <h3>Resort Portfolio</h3>
-                <a href="family.php"><button class="btn btn-default">Family Holidays</button></a>
-                <a href="spa.php"><button class="btn btn-default">Pamper / Spa Breaks</button></a>
-                <a href="wildlife.php"><button class="btn btn-default">Bush / Wildlife</button></a>
-                <a href="adventure.php"><button class="btn btn-default">Adventure &amp; Sports</button></a>
-                <a href="beach.php"><button class="btn btn-default">Beach &amp; Seaside</button></a>
-                <a href="cultural.php"><button class="btn btn-default">Cultural Getaways</button></a>
-                <a href="nature.php"><button class="btn btn-default">Nature Escapes</button></a>
-                <a href="into_africa.php"><button class="btn btn-default">Into Africa</button></a>
-                <a href="sub_urban.php"><button class="btn btn-default">Sub - Urban Breaks</button></a>
-                <a href="romantic.php"><button class="btn btn-default">Romantic Retreats</button></a>
-                <a href="lone_traveller.php"><button class="btn btn-default">Lone Traveller</button></a>
-                <a href="digital_detox.php"><button class="btn btn-default">Digital Detox</button></a>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="container pt-4 pb-4 holiday-catagories-div">
-        <div class="row d-flex justify-content-between">
-            <div class="outerWrapperBenefits outerWrapper">Family Holidays <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Pamper / Spa Breaks <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Bush / Wildlife<br><br> <a
-                    href="holiday_categories/family.php" class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Adventure &amp; Sports <a
-                    href="holiday_categories/family.php" class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Beach &amp; Seaside <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Cultural Getaways <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-        </div>
-        <div class="row d-flex justify-content-between">
-            <div class="outerWrapperBenefits outerWrapper">Nature Escapes <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Into Africa <br><br><a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Sub - Urban Breaks <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Romantic Retreats <a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Lone Traveller <br><br><a
-                    href="holiday_categories/family.php" class="innerWrapper">holiday options &gt;</a></div>
-            <div class="outerWrapperBenefits outerWrapper">Digital Detox <br><br><a href="holiday_categories/family.php"
-                    class="innerWrapper">holiday options &gt;</a></div>
-        </div>
-        <div class="row d-flex justify-content-between">
-            <div style="height:4px; width:100%; background-color:#7c046d;"></div>
-        </div>
-    </div>
-
 
     <?php include('includes/holiday_category.php');?>
 
     <?php include('includes/bottom_nav.php'); ?>
 
-    <?php include('includes/notice_block.php'); ?>
+    <!-- <?php include('includes/notice_block.php'); ?> -->
 
     <?php include('includes/cookie_banner.php'); ?>
 
     <?php include('includes/footer.php'); ?>
 
+    <?php include('includes/scroll_btn.php'); ?>
+
     </div>
 
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
 
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
+    <script src="js/custom.js"></script>
     <script>
         $(function () {
             $('#nav a').on('click', function (e) {
@@ -408,11 +418,11 @@
                 var page = $(this).attr('href');
                 console.log(page);
                 $('#content').load(page);
+                $('html, body').animate({
+                    scrollTop: $("#content").offset().top
+                }, 1000);
             });
         });
-    </script>
-    <script>
-        $("#accordion").accordion();
     </script>
 </body>
 
