@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">APRIL 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >APRIL 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Danielle, Dit gaan baie goed dankie, hoop dit gaan goed aan jou kant ook!
 Groete en lekker dag en dankie vir uitstekende diens van jou kant af. - Riaan Harman</div>

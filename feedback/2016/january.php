@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JANUARY 2016<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JANUARY 2016<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackWhite">Felicia is a very friendly person and speak well. She handles her clients request quickly and with confidence. She is accurate and supply you with all information needed.  On a scale from 1 to 10, I am rating her a 10 for excellent service.
  - Wessels</div>       

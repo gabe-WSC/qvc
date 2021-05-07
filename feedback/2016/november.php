@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">NOVEMBER 2016<br/>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >NOVEMBER 2016<br/>
   MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">In die eerste plek wil ek jou net bedank vir jou vinnige, flinke en vriendelike hulp aan my vanoggend.

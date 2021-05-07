@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JULY 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JULY 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">...when I have doubts or questions I have in the past phoned the call centre, who has provided friendly, prompt service and in so doing I have had some amazing trouble-free, getaways especially with my family from Portugal who hadn't visited SA for 15 years. We had an unforgettable experience and wholesome, fun family time at Ngwenya Lodge and had the most incredible privilege of seeing some spectacular wildlife on our booked game drives.  I will definitely use the tools available from QVC and its partners to make this a more regular part of our lives.  Thanks QVC!!! and the people at the call centre for making it really easy for me to understand and make it happen. - Lidia Guimaraes</div>
 

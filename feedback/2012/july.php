@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JULY 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JULY 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Good afternoon, I would like to register my appreciation and commend Felicia on the best qualities for customer care and best service delivery she is demonstrating. She appeared to be nice, patient and more willing to help. Her response was very professional and demonstrated to be knowledgeable on the functioning of the reservation department. I requested her to check the availability of a holiday accommodation today, 16 July 2012 and she managed. She also gave me alternative dates and places. Thank you. - Charity Hlongwane</div>
 

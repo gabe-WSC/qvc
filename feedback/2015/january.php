@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JANUARY 2015<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JANUARY 2015<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thank you so much for the prompt response...much appreciated! - Naidoo</div>
 

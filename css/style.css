@@ -511,13 +511,13 @@ p.footerText {
 }
 
 a.footerContactLinks {
-    color: white;
+    color: #606060;
     text-decoration: none;
     text-align: left;
 }
 
 a.footerContactLinks:hover {
-    color: #606060;
+    color: white;
     text-decoration: none;
     text-align: left;
 }
@@ -723,7 +723,6 @@ div.feedbackGrey {
     color: white;
     padding: 10px 20px 10px 20px;
     font-size: 14px;
-    margin-left: 20px;
     line-height: 150%;
 }
 
@@ -732,7 +731,6 @@ div.feedbackWhite {
     color: #aeaeae;
     padding: 10px 20px 10px 20px;
     font-size: 14px;
-    margin-left: 20px;
     line-height: 150%;
 }
 /* end member feedback page */
@@ -743,6 +741,18 @@ div.feedbackWhite {
 
 .right-div{
     width: 100%;
+}
+
+.text_button {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    text-decoration: none;
+    color: #7c046d;
+    font-family: 'Arial';
+    font-size: 16px;
+    font-weight: bold;
+    overflow: visible;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -974,7 +984,7 @@ a.purpleLinks:hover {
  a.faqLinks {
     color: white;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 a.faqLinks:hover {
@@ -992,6 +1002,30 @@ a.faqLinksDark:hover {
     color: #7c7c7c;
     text-decoration: none;
 }
+
+.accordion_header{
+    border-bottom: 1px solid white;
+}
+
+#scroll_btn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: rgb(122, 5, 110); /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  #scroll_btn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
 
 /* destination pages */
     /* .left-div{

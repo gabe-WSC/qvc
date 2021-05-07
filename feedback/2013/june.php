@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JUNE 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JUNE 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Dear Leah, Thank you for your promp services it was a pleasure dealing with you today. Kind regards, - Mrs JH Blandin De Chalain</div>
 

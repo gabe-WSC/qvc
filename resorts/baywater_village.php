@@ -54,13 +54,13 @@ resortData('baywater village');
             height="300">
             <a href="../images/resorts/baywater_village/baywater_village_cover_large.jpg" class="photoGallery example-image-link" data-lightbox="baywater_village" data-title="Baywater Village">view photo gallery &gt;</a>
             <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large1.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                            	<a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large2.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                            	<a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large3.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                                <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large4.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                                <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large5.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                                <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large6.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                                <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large7.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
-                                                <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large8.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+            <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large2.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+            <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large3.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+              <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large4.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+              <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large5.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+              <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large6.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+              <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large7.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
+              <a class="example-image-link" href="../images/resorts/baywater_village/baywater_village_large8.jpg" data-lightbox="baywater_village" data-title="Baywater Village"></a>
         </div>
         <div class="image-grid d-flex py-4 justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center">
           <a href="../images/resorts/baywater_village/baywater_village_large1.jpg" data-lightbox="baywater_village1"
@@ -85,14 +85,14 @@ resortData('baywater village');
 
 
 
-        <div style="background-color:#e5e5e5; padding:25px;">
+        <div style="background-color:#e5e5e5; padding:25px 15px;">
           <h6 class="grey" style="font-size: 14px;">RELEVANT NOTICES</h6>
-          <p>
+          <p class="px-0">
           <?= $notice ?> 
         </p>
         </div>
 
-        <h3 class="grey justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center">MAP &amp; DIRECTIONS</h3>
+        <h3 class="grey justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center px-3 px-md-0">MAP &amp; DIRECTIONS</h3>
 
         <!-- map plugin -->
         <div><iframe width="100%" height="250" id="gmap_canvas"
@@ -115,7 +115,7 @@ resortData('baywater village');
           <?= $directions ?> 
         </p>
 
-        <?php include('../includes/resort_finder.php');?>
+        <?php include('includes/resort_finder.php');?>
 
       </div>
       <div class="right-div">
@@ -123,7 +123,7 @@ resortData('baywater village');
         <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
           <h2 class="white">CHALETS</h2>
           <h3 class="whiteItal" style="padding-top:10px;">CHALET TYPES</h3>
-          <p class="blockTextWhite">
+          <p class="blockTextWhite px-0 px-0">
             <?= $chaletTypes ?>
           </p>
 

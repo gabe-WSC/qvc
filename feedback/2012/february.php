@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">FEBRUARY 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >FEBRUARY 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Anita, Ek wil net baie dankie sê vir jou hulp en bedagsaamheid met my bespreking vanoggend. Nogmaals baie dankie. - George Joubert</div>
 

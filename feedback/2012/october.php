@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">OCTOBER 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >OCTOBER 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thanx a million Chanel!! Ek waardeer jou uitstekende diens rerig!! Groete - Elsje Van Rheede</div>
 

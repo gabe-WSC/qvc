@@ -1,4 +1,4 @@
-<h1 class="grey" style="padding-left:30px;">JUNE 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JUNE 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Chanel het vir ons baie goeie, professionele diens gelewer. Sy het die probleem gou hanteer, vir ons laat weet en sy was baie vriendelik. Goed gedoen Chanel. - Anita Van Der Merwe</div>
 
