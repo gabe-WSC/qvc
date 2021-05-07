@@ -4,10 +4,7 @@
       <a href="http://voasa.co.za/#home" target="_blank"><img src="./../images/VOASA.png" width="150" height="35" border="0"></a>
     </div>
     <div class="col-sm-12" style="background-color:#7c046d;">
-      <p class="copywrite text-center" style="font-size:11px; color:white; text-align:center;">
-        <a href="privacy_policy.php">
-          Privacy Policy
-        </a><br>
+      <p class="copywrite text-center mb-0 py-2" style="font-size:11px; color:white; text-align:center;">
         <a href="terms.php">
           Website Terms of Use
         </a><br>

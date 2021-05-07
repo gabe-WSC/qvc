@@ -37,6 +37,86 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4 pt-4">
             <div id="nav">
+            <div class="accordion" id="accordionExample">
+  <div class="card border-0">
+    <div class="card-header" id="headingOne" style="background-color:#7a056e; color:white; line-height:100%;">
+      <h2 class="my-0 accordion_header d-flex justify-content-center">
+        <label class="btn ui-accordion ui-accordion-header" style="color: white; font-size: 24px; text-decoration: none;" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            RESERVATIONS <i class="fas fa-caret-down"></i>
+</label>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body d-flex flex-column align-items-center" style="background-color: rgb(122, 5, 110); display: block; height: 235.6px;">
+      <a href="faq/booking.php" class="faqLinks">1. Making a Booking</a>
+        <a href="faq/bonus_booking.php" class="faqLinks">2. Bonus Bookings</a>
+        <a href="faq/certificates_vouchers_awards.php" class="faqLinks">3. Certificates, Vouchers &amp;
+            Awards</a>
+        <a href="faq/availability.php" class="faqLinks">4. Availability</a>
+        <a href="faq/occupancy.php" class="faqLinks">5. Occupancy</a>
+        <a href="faq/pets.php" class="faqLinks">6. Pets</a>
+        <a href="faq/booking_confirmation.php" class="faqLinks">7. Booking Confirmation</a>
+        <a href="faq/booking_cancellation.php" class="faqLinks">8. Booking Cancellation</a>
+      </div>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="card-header" id="headingTwo" style="background-color:#5c0150; color:white; line-height:100%;">
+      <h2 class="my-0 accordion_header d-flex justify-content-center">
+        <button class="btn btn-link collapsed" type="button" style="color: white; font-size: 24px; text-decoration: none;" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        MEMBERSHIP <i class="fas fa-caret-down"></i>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body d-flex flex-column align-items-center" style="background-color: rgb(92, 1, 80); display: block; height: 240.6px;">
+      <a href="faq/finite_units.php" class="faqLinks">1. Finite Units</a>
+        <a href="faq/club_units.php" class="faqLinks">2. Club Units</a>
+        <a href="faq/debit_orders.php" class="faqLinks">3. Debit Orders</a>
+        <a href="faq/agreement.php" class="faqLinks">4. Agreement</a>
+        <a href="faq/management_fees.php" class="faqLinks">5. Management Fees</a>
+        <a href="faq/vestfin.php" class="faqLinks">6. Who is Vestfin?</a>
+        <a href="faq/collection_fee.php" class="faqLinks">7. Collection Fees</a>
+        <a href="faq/finances.php" class="faqLinks">8. Finances</a>
+      </div>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="card-header" id="headingTwo" style="background-color:#b8b8b8; color:white; line-height:100%;">
+      <h2 class="my-0 accordion_header d-flex justify-content-center">
+        <button class="btn btn-link collapsed" type="button" style="color: white; font-size: 24px; text-decoration: none;" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        GENERAL <i class="fas fa-caret-down"></i>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body d-flex flex-column align-items-center" style="background-color:#b8b8b8; display: block; height: 180.6px;">
+      <a href="faq/website_login.php" class="faqLinksDark">1. Website Login</a>
+        <a href="faq/numbers.php" class="faqLinksDark">2. Different Numbers</a>
+        <a href="faq/rci.php" class="faqLinksDark">3. Why RCI Affiliated?</a>
+        <a href="faq/vrs.php" class="faqLinksDark">4. Who is VRS?</a>
+      </div>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="card-header" id="headingTwo" style="background-color:#7c7c7c; color:white; line-height:100%;">
+      <h2 class="my-0 accordion_header d-flex justify-content-center">
+        <button class="btn btn-link collapsed" type="button" style="color: white; font-size: 24px; text-decoration: none;" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        INTERNATIONAL <i class="fas fa-caret-down"></i>
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body d-flex flex-column align-items-center" style="background-color: #7c7c7c; display: block; height: 180.6px;">
+      <a href="faq/international_booking.php" class="faqLinks">1. How to Book</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+            </div>
+            <!-- <div id="nav">
                 <div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
                     <h3 style="background-color:#7a056e; color:white; font-size:24px; line-height:100%;"
                         class="ui-accordion-header ui-state-default ui-accordion-header-active ui-state-active ui-corner-top ui-accordion-icons"
@@ -110,7 +190,7 @@
                         <a href="faq/international_booking.php" class="faqLinks">1. How to Book</a><br>
                     </div>
                 </div>
-            </div>
+            </div> -->
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-8 pl-sm-0">
@@ -198,7 +278,16 @@
 
     </div>
 
-   
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script>
@@ -211,9 +300,9 @@
             });
         });
     </script>
-    <script>
+    <!-- <script>
         $("#accordion").accordion();
-    </script>
+    </script> -->
 </body>
 
 </html>

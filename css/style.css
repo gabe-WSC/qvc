@@ -511,13 +511,13 @@ p.footerText {
 }
 
 a.footerContactLinks {
-    color: white;
+    color: #606060;
     text-decoration: none;
     text-align: left;
 }
 
 a.footerContactLinks:hover {
-    color: #606060;
+    color: white;
     text-decoration: none;
     text-align: left;
 }
@@ -743,6 +743,18 @@ div.feedbackWhite {
 
 .right-div{
     width: 100%;
+}
+
+.text_button {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    text-decoration: none;
+    color: #7c046d;
+    font-family: 'Arial';
+    font-size: 16px;
+    font-weight: bold;
+    overflow: visible;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -974,7 +986,7 @@ a.purpleLinks:hover {
  a.faqLinks {
     color: white;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 a.faqLinks:hover {
@@ -991,6 +1003,10 @@ a.faqLinksDark {
 a.faqLinksDark:hover {
     color: #7c7c7c;
     text-decoration: none;
+}
+
+.accordion_header{
+    border-bottom: 1px solid white;
 }
 
 /* destination pages */
