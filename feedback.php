@@ -1,5 +1,5 @@
 <?php 
-  $current_page = "faq.php";
+  $current_page = "feedback.php";
 ?>
 <!doctype html>
 <html lang="en">
@@ -37,7 +37,7 @@
     <div class="container">
         <div
             class="row d-flex justify-content-center justify-content-md-start justify-content-lg-start justify-content-xl-start">
-                <h1 class="grey pt-4">FAQs</h1>
+                <h1 class="grey pt-4">Member Feedback</h1>
         </div>
         <div class="row">
             <div class="left-div layout-margin-right">
@@ -318,65 +318,24 @@
                 <!-- <h1 class="mt-4 grey pl-4">FAQs</h1> -->
                 <!-- <h2>QVC About Us</h2> -->
                 <div id="content">
-                    <div style="background-color:#7a056e; color:white; padding:20px; font-size:22px; text-align: left;">
-                        RESERVATIONS &amp; ACCOMMODATION</div>
-                    <div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px; text-align: left;">
-                        1. MAKING A BOOKING</div>
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px;">
-                        How do I go about making a booking?</div>
-                    <p class="pt-4">You may make use of our Online Booking System, which is
-                        convenient, hassle-free and available 24/7. Alternatively, please contact our call centre on 012
-                        492 1230 or send us an email to <a href="mailto:correspondence@vrs.co.za"
-                            class="purpleLinks">correspondence@vrs.co.za</a> and kindly provide your member number
-                        together with your ID number (if you are not the main member, you would need to provide a
-                        completed Power of Attorney form together with the main members' ID number), your preferred
-                        resort or a province/area e.g. Garden Route and your preferred date that you would like to go on
-                        holiday. Please include the number of adults and children under 12 to be accommodated.</p>
-                    <p class="pt-4"><strong>Please take note of the following:</strong></p>
-                    <ul class="indiFAQ">
-                        <li style="padding:0px 20px 0px 0px; font-family:arial; font-size:14px; line-height:150%;">A
-                            weekend is from a Friday to a Monday (3 nights); a midweek is from a Monday to a Friday (4
-                            nights) and a full week is from a Friday to a Friday (7 nights). We only book in these three
-                            accommodation intervals.</li>
-                        <li style="padding:0px 20px 0px 0px; font-family:arial; font-size:14px; line-height:150%;">
-                            During Peak season we only book full weeks (no weekend or midweek bookings permitted). Peak
-                            seasons usually fall in the school holidays.</li>
-                        <li style="padding:0px 20px 0px 0px; font-family:arial; font-size:14px; line-height:150%;">
-                            Always submit your booking request as far in advance as possible (12 months is recommended).
-                        </li>
-                        <li style="padding:0px 20px 0px 0px; font-family:arial; font-size:14px; line-height:150%;">
-                            Provide more than one option with regards to the resort and preferred occupation dates.</li>
-                    </ul>
+                <h1 class="grey pl-3 pl-md-3 pl-lg-3" >2020 MEMBER FEEDBACK</h1>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
-                        What must I do when wanting to make a booking for next year?</div>
-                    <p class="pt-4">Should a member wish to make a reservation in the current
-                        year, for occupation dates which fall into the following year, then the current year as well as
-                        the following years' annual fees must be paid in advance, before the booking can be made.
-                        Reservations for the following year opens yearly during September, although December
-                        availability opens on the first working day of December, for the following year. Club Stock
-                        only.</p>
+<div class="feedbackGrey">Thank you so much for this EXCELLENT EXCELLENT service - professional and efficient. Thank you, Lynda, take care. - Melissa Cook</div>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
-                        What accommodation periods am I able to book?</div>
-                    <p class="pt-4">You are able to book any of the following intervals:<br><br>
-                        <strong>Midweeks:</strong> Monday to Friday<br>
-                        <strong>Weekends:</strong> Friday to Monday (some resorts work on a Saturday to Monday
-                        basis)<br>
-                        <strong>Full weeks:</strong> During non-peak season, most of the resorts work on a Friday to
-                        Friday or Saturday to Saturday basis. Only full weeks can be booked during Peak season.</p>
+<div class="feedbackWhite">Thank you for the quick reply. I have tested the login details and found them to be working. As for the service rating, I can say the service was exceptional. My query has been resolved without any additional correspondence and with a very friendly attitude. Thank you for that. It is not very often or normal that I get this level of “service with a smile” attitude or the quick resolution of a request. Thank you very much. - Fanie Potgieter</div>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
-                        Can I book at RCI Resorts?</div>
-                    <p class="pt-4">Most QVC members are automatically affiliated with RCI, if you
-                        are an RCI member this means that you are permitted to make bookings at all RCI-affiliated
-                        resorts using your Club portfolio. You are able to view the resort information on the RCI
-                        website, but will need to contact QVC directly to request availability at your desired RCI
-                        Resort. You may use your RCI membership number for correspondence, it is an alpha-numeric number
-                        for example QVCL- 1234. You may book South African and African RCI Resort Stock from the QVC
-                        website, but for all International booking queries please contact RCI (International Exchange)
-                        on Tel: +27 (0) 11 258 1100 or visit <a href="http://www.rci.co.za" target="_blank"
-                            class="purpleLinks">www.rci.co.za</a>.</p>
+<div class="feedbackGrey">Thank you very much for your prompt response under extraordinary circumstances. I really appreciate it and wish to congratulate you on your excellent customer service. - Desirée Tesner-Smith</div>
+
+<div class="feedbackWhite">Goeie middag, Mev Reider. Baie, baie dankie vir jou opoffering met die aangeleentheid. Ek waardeer dit baie. Jy is 'n ster! - Johan Cilliers</div>
+
+<div class="feedbackGrey">Thank you so much. I was just worried knowing that it is lockdown. I thank you a million times for your great work, you are a star. - Rafiek Kamaar</div>
+
+<div class="feedbackWhite">My birthday was on Monday and you gave me a big present yesterday with the good news. I don’t know how to thank you. I really appreciate all the work you have done for me. Thank you very, very much. - I Stewart</div>
+
+<div class="feedbackGrey">Thank you for your prompt response. The service from your department is excellent. I would rate it 10 out of 10. - M Mundy</div>
+
+<div class="feedbackWhite">I wish to commend Megan for an excellent job she has done by helping me with my password. She promised to get back to me soonest, which she did, and when the password still did not work, she pointed out a "minor" CAPS possibility - it worked. Megan, you have saved me much stress as I plan my holiday beyond COVID-19. - Terence Ogle</div>
+
                 </div>
             </div>
 

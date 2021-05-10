@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >APRIL 2014<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >APRIL 2014<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">MJ. I want to thank you for the service you gave us today. You made it a pleasure for us to sit back and this in our home and relax while we are booking our holiday. Your frendly profesional manner made it a pleasure to have you as our booking agent.  Thank you once again. I will def recomend you to our other friends when they book.  - Labuschagne</div>
 

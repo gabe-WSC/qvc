@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JANUARY 2014<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >JANUARY 2014<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">As a proud member of Quality Vacation Club for 10 years now i would like to notify the public that i have found the Best reservations consultant of Quality Vacation club for 2013 to be MRS Michelle Robilliard. It is been a pleasure liasing with her as she goes more than the extra mile excelling in client care and strives for service excellency assisting me to secure a reservation closer to the occupation date.  My sincere appreciation and gratitute goes to MRS Daniela De Oliveira whom i also find strives for service excellency and is very dedicated, efficient and a outstanding client care consultant whom goes more than the extra mile in rectifying discreprancies made by the club. Well done MRS Daniela De Oliveira. I am proud to be associated with MRS Michelle Robilliard and MRS Daniela de Oliveira. Thanks so much. - Khalilk</div>
 

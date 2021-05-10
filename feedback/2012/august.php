@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >AUGUST 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >AUGUST 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">AAN WIE DIT MAG TOEKOM. Gradering van diens ontvang op 13 Augustus 2012
 Dit is met graagte dat ek terugvoering gee oor diens wat ek vandag van Danielle ontvang het. Wat 'n plesier is dit om met hierdie dame te konsulteer.  Ek doen gewoonlik die besprekings per e-pos omdat telefoniese besprekings werklik te duur is.  Sy beantwoord die e-posse besonder vinnig en sy doen werklik moeite om besprekings te bekom.  As daar nie vir 'n spesifieke datum plek beskikbaar is nie sal sy altyd terugkom met 'n alternatiewe voorstel.  Die kere wat ek tog wel met haar telefonies in verbinding was, was dit net 'n plesier.  Sy is professioneel, maar aan vriendelikheid en behulpsaamheid is daar by haar geen gebrek nie en sy bedien my in Afrikaans wat dit vir my soveel makliker maak. Dra asseblief my innige dank aan Danielle oor. Dankie ook aan QVC in die algemeen. Vriendelike groete - Mev. E. Valda De Villiers</div>

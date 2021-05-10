@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0">JANUARY 2018<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3">JANUARY 2018<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackWhite">I had awesome service earlier and received the unit I had wanted.
  - Ancillotti</div>       

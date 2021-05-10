@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JUNE 2017<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >JUNE 2017<br/>MEMBER FEEDBACK</h1>
 
 								<div class="feedbackWhite">Thank you for the excellent service provided. It is appreciated.  - Winterbach</div>       
 
