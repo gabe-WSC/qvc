@@ -497,17 +497,21 @@ p.footerText {
 .member {
     display: none;
     position: fixed;
-    bottom: 35%;
+    bottom: 0%;
     right: 0px;
     font: bold 0.9em/1.2em Arial, Helvetica, sans-serif;
     color: white;
     text-decoration: none;
-    /* padding: 10px 0px 15px 0px; */
-    padding: 30px;
+    padding: 15px;
     background-color: #7c046d;
     opacity: 0.8;
     text-align: center;
     z-index: 20;
+    width: 100%;
+}
+
+footer {
+    margin-bottom: 69px;
 }
 
 a.footerContactLinks {
@@ -854,6 +858,24 @@ div.feedbackWhite {
     .right-div{
         width: 365px;
     }
+    footer {
+        margin-bottom: 0px;
+    }
+    .member {
+        display: none;
+        position: fixed;
+        bottom: 35%;
+        right: 0px;
+        font: bold 0.9em/1.2em Arial, Helvetica, sans-serif;
+        color: white;
+        text-decoration: none;
+        padding: 30px;
+        background-color: #7c046d;
+        opacity: 0.8;
+        text-align: center;
+        z-index: 20;
+        width: 130px;
+    }
  }
 
  /* Large devices (desktops, 992px and up) */
@@ -965,6 +987,26 @@ div.feedbackWhite {
     
     .right-div {
         width: 528px;
+    }
+
+    .member {
+        display: none;
+        position: fixed;
+        bottom: 35%;
+        right: 0px;
+        font: bold 0.9em/1.2em Arial, Helvetica, sans-serif;
+        color: white;
+        text-decoration: none;
+        padding: 30px;
+        background-color: #7c046d;
+        opacity: 0.8;
+        text-align: center;
+        z-index: 20;
+        width: 130px;
+    }
+
+    footer {
+        margin-bottom: 0px;
     }
  }
 
@@ -1142,4 +1184,25 @@ a.faqLinksDark:hover {
     .layout-margin-left{
         margin-left: 30px;
     }
+
+    .member {
+        display: none;
+        position: fixed;
+        bottom: 35%;
+        right: 0;
+        font: bold 0.9em/1.2em Arial, Helvetica, sans-serif;
+        color: white;
+        text-decoration: none;
+        padding: 30px;
+        background-color: #7c046d;
+        opacity: 0.8;
+        text-align: center;
+        z-index: 20;
+        width: 130px;
+    }
+
+    footer {
+        margin-bottom: 0px;
+    }
+
  }
