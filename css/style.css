@@ -593,14 +593,15 @@ a.whiteLinks:hover {
     text-decoration: underline;
 }
 
+.special-block{
+    width: 400px;
+}
+
 /* end of specials page section# */
 
 
 
 /* resort portfolio page section# */
-.resort-portfolio-div{
-    /* width: 250px; */
-}
 
 .resort-portfolio-block{
     width: 250px;
@@ -777,6 +778,14 @@ div.feedbackWhite {
     display: none;
 }
 /* end of contact page  */
+
+/* bonusbreak page */
+
+.bonus-img-block{
+    width: 255px;
+}
+
+/* end of bonusbreak page section */
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
