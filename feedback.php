@@ -318,9 +318,9 @@
                 <!-- <h1 class="mt-4 grey pl-4">FAQs</h1> -->
                 <!-- <h2>QVC About Us</h2> -->
                 <div id="content">
-                    <div style="background-color:#7a056e; color:white; padding:20px; font-size:22px;">
+                    <div style="background-color:#7a056e; color:white; padding:20px; font-size:22px; text-align: left;">
                         RESERVATIONS &amp; ACCOMMODATION</div>
-                    <div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px;">
+                    <div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px; text-align: left;">
                         1. MAKING A BOOKING</div>
                     <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px;">
                         How do I go about making a booking?</div>
@@ -348,7 +348,7 @@
                             Provide more than one option with regards to the resort and preferred occupation dates.</li>
                     </ul>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">
+                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
                         What must I do when wanting to make a booking for next year?</div>
                     <p class="pt-4">Should a member wish to make a reservation in the current
                         year, for occupation dates which fall into the following year, then the current year as well as
@@ -357,7 +357,7 @@
                         availability opens on the first working day of December, for the following year. Club Stock
                         only.</p>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">
+                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
                         What accommodation periods am I able to book?</div>
                     <p class="pt-4">You are able to book any of the following intervals:<br><br>
                         <strong>Midweeks:</strong> Monday to Friday<br>
@@ -366,7 +366,7 @@
                         <strong>Full weeks:</strong> During non-peak season, most of the resorts work on a Friday to
                         Friday or Saturday to Saturday basis. Only full weeks can be booked during Peak season.</p>
 
-                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">
+                    <div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">
                         Can I book at RCI Resorts?</div>
                     <p class="pt-4">Most QVC members are automatically affiliated with RCI, if you
                         are an RCI member this means that you are permitted to make bookings at all RCI-affiliated

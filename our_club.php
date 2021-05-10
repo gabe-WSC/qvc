@@ -51,20 +51,20 @@
           <br><br>
           <h2>MEMBER BENEFITS</h2>
           <div class="d-flex flex-column mb-3 flex-md-column flex-sm-column flex-lg-row flex-md-row">
-            <div class="outerWrapperBenefits member-benefit-block">
+            <div class="outerWrapperBenefits p-3 member-benefit-block">
               <h2 class="white">BENEFIT #1</h2>
-              <p class="blockTextWhite">At our QVC Club Resorts, excellence and member experiences is at the heart of
+              <p class="blockTextWhite pl-0">At our QVC Club Resorts, excellence and member experiences is at the heart of
                 the resort management philosophy.</p>
             </div>
 
-            <div class="outerWrapperBenefits member-benefit-block">
+            <div class="outerWrapperBenefits p-3 member-benefit-block">
               <h2 class="white">BENEFIT #2</h2>
-              <p class="blockTextWhite">The Club has a wide variety of resorts, destinations and types of holiday
+              <p class="blockTextWhite pl-0">The Club has a wide variety of resorts, destinations and types of holiday
                 experiences to choose from.</p><br><br>
             </div>
-            <div class="p-2 outerWrapperBenefits mb-2 member-benefit-block">
+            <div class="p-2 outerWrapperBenefits p-3 mb-2 mr-0 member-benefit-block">
               <h2 class="white">BENEFIT #3</h2>
-              <p class="blockTextWhite">Club members are able to treat friends and family to a holiday, by securing a
+              <p class="blockTextWhite pl-0">Club members are able to treat friends and family to a holiday, by securing a
                 Guest Certificate booking.</p>
               <a href="member_benefits.php" class="innerWrapperBenefits">find more benefits &gt;</a><br><br>
             </div>

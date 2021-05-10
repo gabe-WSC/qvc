@@ -1,8 +1,8 @@
-<div style="background-color:#7a056e; color:white; padding:20px; font-size:22px;">GENERAL</div>
+<div style="background-color:#7a056e; color:white; padding:20px; font-size:22px; text-align: left;">GENERAL</div>
 
-<div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px;">2. DIFFERENT NUMBERS</div>
+<div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px; text-align: left;">2. DIFFERENT NUMBERS</div>
 
-<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">Please explain the different numbers that I received?</div>
+<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">Please explain the different numbers that I received?</div>
 
 <ul class="indiFAQ">
 <li style="padding:20px 20px 0px 0px; font-family:arial; font-size:14px; line-height:150%;">One number is your Agreement number - this number is alpha-numeric ,<br />e.g. IM4924</li>
