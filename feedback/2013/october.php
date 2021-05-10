@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >OCTOBER 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >OCTOBER 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Dear Felicia, thank you for your outstanding and professional service. You are a STAR. Thank you. - Mr WJ De Beer</div>
 

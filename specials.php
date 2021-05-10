@@ -1,5 +1,11 @@
 <?php 
   $current_page = "specials.php";
+
+  if(isset($_GET['id'])) {
+    $id = $_GET['id'];
+    $pageID = '?id=' . $id;
+}
+// $id = '';
 ?>
 <!doctype html>
 <html lang="en">
@@ -36,43 +42,31 @@
             </div>
     </div>
 
-    <div class="row">
-        <div class="col">
-            <a href="https://www.qvc.co.za/specials.php?id=bonusbreaks" target="_blank"><img src="https://www.qvc.co.za/images/specials/2021/bonusbreaks/web_page-banners_specials-page.jpg" width="400" height="300" alt="Bonus Breaks"></a><br>
-            <div class="special-btn">
-                <a href="https://www.qvc.co.za/specials.php?id=bonusbreaks" style="color:#FFF" target="_blank">Click here</a> TO FIND OUT MORE…
-            </div>
-        </div>
-        <div class="col">
-            <a href="https://7across.com/travel-guide/new-zealand/north-island" target="_blank"><img src="images/LetsExplore1.jpg" width="400" height="300" alt="7Accross"></a>
-            <div class="special-btn">
-                <a href="https://7across.com/travel-guide/new-zealand/north-island" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
-            </div>
-        </div>
+    <div class="row d-flex justify-content-between justify-content-sm-center justify-content-md-center  justify-content-lg-between px-4">
+    <?php
+        switch($id) {
+            case 'external-exchanges':
+                include 'specials/external-exchanges.php';
+                break;
+            case 'finite-units':
+                include 'specials/finite-units.php';
+                break;
+		    case 'bonusbreaks':
+                include 'specials/bonusbreaks.php';
+                break;
+			 case 'mnarani2021':
+                include 'specials/mnarani.php';
+                break;
+			case 'may-sale':
+                include 'specials/may-sale.php';
+                break;
+            default:
+                include 'specials/main.php';
+        }
+        ?>
+       
     </div>
-    <!-- <div class="row">
-        <div class="col">
-            <div class="special-btn">
-                <a href="https://www.qvc.co.za/specials.php?id=bonusbreaks" style="color:#FFF" target="_blank">Click here</a>
-            </div>
-        </div>
-        <div class="col">
-            <div class="special-btn">
-                <a href="https://7across.com/travel-guide/new-zealand/north-island" class="special-btn" target="_blank" style="color:#FFF">Click here</a>
-            </div>
-        </div>
-    </div> -->
-    <div class="row pt-4">
-        <div class="col">
-            <a href="https://www.qvc.co.za/specials.php?id=bonusbreaks" target="_blank"><img src="https://www.qvc.co.za/images/specials/special-offers/external-exchanges/2020/Header_Exchange_Web_banner.jpg" width="400" height="300" alt="Bonus Breaks"></a>
-            <div class="special-btn">
-                <a href="https://7across.com/travel-guide/new-zealand/north-island" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
-            </div>
-        </div>
-    </div>
-    <!-- <div class="row">
-        <a href="https://www.qvc.co.za/specials.php?id=bonusbreaks" class="special-btn" style="color:#FFF" target="_blank">Click here</a>
-    </div> -->
+   
     
   </div>
 

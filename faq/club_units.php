@@ -1,12 +1,12 @@
-<div style="background-color:#7a056e; color:white; padding:20px; font-size:22px;">MEMBERSHIP AGREEMENT & FEES</div>
+<div style="background-color:#7a056e; color:white; padding:20px; font-size:22px; text-align: left;">MEMBERSHIP AGREEMENT & FEES</div>
 
-<div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px;">2. CLUB UNITS</div>
+<div style="background-color:#7c7c7c; color:white; padding:20px; font-size:22px; text-align: left;">2. CLUB UNITS</div>
 
-<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">When do my Club Units for next year become available?</div>
+<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">When do my Club Units for next year become available?</div>
 <p style="padding:20px 20px 20px 20px;">For members making use of a debit order instruction, Club Units are released in January each year, once at least 25% of management fee has been paid or 3 (three) successful payments have been made.</p>
 <p style="padding:20px 20px 20px 20px;">Cash payers need to pay the full amount by 31 December of the preceding year and their Club Units will then we released in January.</p>
 
-<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%;">When does my yearly allocation of Club Units expire?</div>
+<div style="background-color:#b8b8b8; color:white; padding:20px; font-size:22px; line-height:150%; text-align: left;">When does my yearly allocation of Club Units expire?</div>
 <p style="padding:20px 20px 20px 20px;">A member can accumulate Club Units for a period of 2 or 3 years, depending on the members' Agreement.</p>
 <p style="padding:20px 20px 20px 20px;">A member with a three (3) year window period may accumulate any unused Club Units for two (2) years, so as to carry such Club Units forward for use during the following year, provided that such Club Units may not be accumulated for a period in excess of three (3) years. The first year's units have to be utilized before the end of the third year. For example:</p>
 <table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">

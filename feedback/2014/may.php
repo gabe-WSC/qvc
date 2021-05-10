@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >MAY 2014<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >MAY 2014<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thanks for your fast and efficient service, it is highly appreciated. - Strydom</div>
 

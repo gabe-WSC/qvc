@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >NOVEMBER 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >NOVEMBER 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">With good prompt service like today and by you going the extra mile I rate you 10/10. - Maber</div>
 

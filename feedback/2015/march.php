@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >MARCH 2015<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >MARCH 2015<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Net 'n woord van dank vir die afhandeling van die aangeleentheid. - Mouton</div>
 

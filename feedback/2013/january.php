@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >JANUARY 2013<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >JANUARY 2013<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">I would just like to thank you for all your support and help in reserving a holiday in June/July'13 for me and my family at Uvongo River Resort. It is very seldom that you find people in your position that goes the extra mile for their clients. Once again I thank you for all your patience and understanding. - Darrell Marshall</div>
 

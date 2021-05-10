@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >DECEMBER 2015<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >DECEMBER 2015<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackWhite">Vriendelik! Stap die ekstra myl en baie hulpvaardig. - Louw</div>
 

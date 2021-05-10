@@ -1,4 +1,4 @@
-<h1 class="grey pl-3 pl-md-0 pl-lg-0" >DECEMBER 2012<br/>MEMBER FEEDBACK</h1>
+<h1 class="grey pl-3 pl-md-3 pl-lg-3" >DECEMBER 2012<br/>MEMBER FEEDBACK</h1>
 
 <div class="feedbackGrey">Thank you, your company always do a great job of coming back to your clients and I am always highly impressed with your service. Happy Xmas - Heather</div>
 
