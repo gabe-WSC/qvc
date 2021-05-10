@@ -63,8 +63,8 @@
         </div>
         <div class="explore-column" style="background-color:#dfdfdf;">
             <p class="footerText d-flex flex-column" style="color:white;">
-                <a href="contact_us.php" class="footerContactLinks">Contact us</a><br>
-                <a href="privacy_policy.php" class="footerContactLinks">Privacy Policy</a><br>
+                <a href="contact_us.php" class="footerContactLinks">Contact us</a>
+                <a href="privacy_policy.php" class="footerContactLinks">Privacy Policy</a>
                 <a href="terms_of_use.php" class="footerContactLinks">Terms &amp; Conditions</a></p>
                 <p class="footerText">QVC Managing Agent</p>
                 <a href="vrs.php"><img src="images/VRS_logo.png" width="150" height="54" border="0"></a><br>

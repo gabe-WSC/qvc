@@ -759,6 +759,25 @@ div.feedbackWhite {
     overflow: visible;
 }
 
+/* contact page  */
+#members_special_img{
+    width: 100%;
+}
+
+#directions_img{
+    width: 100%;
+    height: 679px;
+}
+
+.mobile-div-show{
+    display: block;
+}
+
+.mobile-div-hide{
+    display: none;
+}
+/* end of contact page  */
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
     #second-nav{
@@ -792,6 +811,13 @@ div.feedbackWhite {
         margin-left: 0px;
     }
 
+    .mobile-div-hide{
+        display: none !important;
+    }
+
+    .mobile-div-show{
+        display: block;
+    }
     /* .container {
         max-width: 100%;
     } */
@@ -875,6 +901,14 @@ div.feedbackWhite {
         text-align: center;
         z-index: 20;
         width: 130px;
+    }
+
+    .mobile-div-hide{
+        display: none !important;
+    }
+
+    .mobile-div-show{
+        display: block;
     }
  }
 
@@ -1007,6 +1041,14 @@ div.feedbackWhite {
 
     footer {
         margin-bottom: 0px;
+    }
+
+    .mobile-div-hide{
+        display: none;
+    }
+
+    .mobile-div-show{
+        display: block !important;
     }
  }
 
@@ -1203,6 +1245,14 @@ a.faqLinksDark:hover {
 
     footer {
         margin-bottom: 0px;
+    }
+
+    .mobile-div-hide{
+        display: block !important;
+    }
+
+    .mobile-div-show{
+        display: none !important;
     }
 
  }
