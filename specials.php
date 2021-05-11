@@ -83,42 +83,10 @@ $id = 'external-exchanges';
 
 
 
-  <footer>
-    <div class="col-sm-12 text-center pb-4">
-      <a href="http://africanblessings.co.za/" target="_blank"><img src="images/AfricanBlessings-logo2021.png"></a>
-      <a href="http://voasa.co.za/#home" target="_blank"><img src="images/VOASA.png" width="150" height="35"
-          border="0"></a>
-    </div>
-    <div class="col-sm-12" style="background-color:#7c046d;">
-      <p class="copywrite text-center" style="font-size:11px; color:white; text-align:center;">
-        <a href="privacy_policy.php">
-          Privacy Policy
-        </a><br>
-        <a href="terms.php">
-          Website Terms of Use
-        </a><br>
-        Copyright © 2021 Quality Vacation Club All Rights Reserved
-      </p>
-    </div>
-  </footer>
-
-  <div class="member" style="display: block;">
-    <a href="https://www.qvc.co.za/notices.php" style="text-decoration:none; color:white;">
-      <div class="notice">MEMBER<br>NOTICES</div>
-      <div class="readmore">read here</div>
-    </a>
-  </div>
-  <div class="cookieinfo"
-    style="position: fixed; left: 0px; right: 0px; height: auto; min-height: 21px; z-index: 2147483647; background: rgb(238, 238, 238); color: rgb(51, 51, 51); line-height: 21px; padding: 8px 18px; font-family: Montserrat, sans-serif; font-size: 14px; text-align: center; bottom: 0px; opacity: 1;">
-    <div class="cookieinfo-close"
-      style="float: right; display: block; padding: 5px 8px; min-width: 100px; margin-left: 5px; border-radius: 5px; cursor: pointer; color: rgb(0, 0, 0); background: rgb(241, 214, 0); text-align: center;">
-      ✖</div><span style="display:block;padding:5px 0 5px 0;">We use cookies to enhance your experience. By continuing
-      to visit this site you agree to our use of cookies. <a href="privacy_policy.php"
-        style="text-decoration: none; color: rgb(49, 168, 240);">More info</a><img
-        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="display: none;"> <a
-        href="https://cookieinfoscript.com"
-        style="text-decoration: none; display: none; color: rgb(49, 168, 240);">cookie script</a></span>
-  </div>
+  <?php include('includes/notice_block.php'); ?>
+  <?php include('specials/includes/bottom_nav.php'); ?>
+  <?php include('includes/footer.php'); ?>
+  
   </div>
 
   <!-- Optional JavaScript -->

@@ -34,11 +34,11 @@
     <div class="container">
         <div class="row d-flex">
             <div class="right-div layout-margin-right">
-                <h1 class="mt-4 grey">IMPORTANT MEMBER NOTICES</h1>
-                <h2 class="grey"><span style="color:#7c046d;">COVID-19 RELATED NEWS AND UPDATES</span></h2><br>
+                <h1 class="mt-4 grey text-center text-md-left text-lg-left">IMPORTANT MEMBER NOTICES</h1>
+                <h2 class="grey pl-3 pl-md-0 pl-lg-0"><span style="color:#7c046d;">COVID-19 RELATED NEWS AND UPDATES</span></h2><br>
                 <p> <a href="covid19-lockdown.php" style="color: inherit">Click here to read more</a></p>
 
-                <span style="color:#7c046d;">GENERAL NOTICES</span>
+                <h2 class="grey pl-3 pl-md-0 pl-lg-0"><span style="color:#7c046d;">GENERAL NOTICES</span></h2><br>
                 <p>
                     <span style="color:#7c046d;">OFFICE CLOSURE NOTICES</span><br>
                     ﻿Please note that our offices will be closed on the following days:<br>
@@ -119,7 +119,7 @@
 
                     <div style="background-color:#b8b8b8; padding: 20px 20px 10px 20px; margin-top:20px; margin-bottom:20px;">
                               <h2 class="grey"><span style="color:white;">GUEST CERTIFICATES</span></h2>
-                              <p style="color:#fff;">Please be advised that, should a Club Member wish to allow another person (non-member) to make use of a reservation on their club portfolio, they will be required to issue a Guest Certificate for their guest. They will require the guest’s Id number, name and surname, cell phone number and email address. The guest will be required to show the Guest Certificate at the resort to obtain entrance.</p>
+                              <p style="color:#fff;" class="px-0">Please be advised that, should a Club Member wish to allow another person (non-member) to make use of a reservation on their club portfolio, they will be required to issue a Guest Certificate for their guest. They will require the guest’s Id number, name and surname, cell phone number and email address. The guest will be required to show the Guest Certificate at the resort to obtain entrance.</p>
                             </div>
 
                             <p>
@@ -143,7 +143,7 @@
                             <div style="background-color:#b8b8b8; padding: 20px;" id="bank-details">
                                 
                                 <h2 class="grey"><span style="color:#fff;">BANK DETAILS</span></h2><br>
-                                <p id="bank-details" style="color:#fff; margin: 0;">
+                                <p class="px-0" id="bank-details" style="color:#fff; margin: 0;">
                                     Bank: FNB Centurion<br>
                                     Account Name: Vacation Recreational Services<br>
                                     Account Type: Cheque<br>
@@ -158,20 +158,25 @@
                 <a href="specials.php"><img src="https://www.qvc.co.za/mailers/festive-season/web%20badge_3.jpg"
                         class="img-responsive header-img mx-auto mt-4" alt="Members Specials"></a> </p>
                         <div style="background-color:#7a056e; color:white; padding:20px 20px 20px 20px; font-size:14px; font-family:'Arial'; line-height:1.3;">
-                            	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr>
-                            <td colspan="2" style="padding:10px;">
-                              <h2 class="grey"><span style="color:white;">RESORT NOTICES</span></h2>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td colspan="2" style="padding:10px;">
-                                <p style="margin: 0; color: #fff;">
+
+                        <div>
+                        <h2 class="grey pb-3"><span style="color:white;">RESORT NOTICES</span></h2>
+                        <p class="px-0" style="margin: 0; color: #fff;">
                                     • Mabalingwe recently installed 150 water meters across the property to better manage this precious resource and overall water usage on the Resort.<br><br>
                                     • The Super Tubes at Monateng Safari Lodge were refurbished and are now operational, to bring even more fun times and joy to guests.<br><br>
                                     • Mount Amanzi have upgraded their Lapas with more seating areas and better braai facilities and lighting.<br><br>
                                     • Ngwenya Lodge replaced curtains, blinds, cushions, pillows and bedding in each unit – 194 units to be exact!
                                 </p>
+                        </div>
+                            	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                          <tbody><tr>
+                            <td colspan="2" style="padding:10px;">
+                              
+                            </td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" style="padding:10px;">
+                                
                             </td>
                           </tr>
                           <tr>
@@ -222,7 +227,7 @@
     
     
 </div><br>
-<img src="images/beach.jpg" width="325" height="300" alt="Happy Vacation">
+<img class="w-100" src="images/beach.jpg" width="325" height="300" alt="Happy Vacation">
             </div>
         </div>
 

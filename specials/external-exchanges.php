@@ -143,8 +143,8 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
         loved ones.</span></h1>
 
 <div class="row pb-4">
-    <div class="col"><br>
-        <img class="d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center" src="./images/specials/special-offers/external-exchanges/2020/page_banner.jpg"
+    <div class="col d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center"><br>
+        <img class="" src="./images/specials/special-offers/external-exchanges/2020/page_banner.jpg"
             alt="external exchanges banner">
     </div>
     <div class="col">
@@ -173,20 +173,20 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
     </div>
 </div>
 
-<div class="row d-flex w-100 justify-content-between">
-    <div class="external-exchanges-img-block pb-4 mr-2">
+<div class="row d-flex w-100 justify-content-center">
+    <div class="external-exchanges-img-block pb-2 mr-2">
         <img src="images/specials/special-offers/external-exchanges/1.jpg" alt="Midweek">
         <div class="text-resort">
             <h3>Strand Pavilion</h3>
         </div>
     </div>
-    <div class="external-exchanges-img-block pb-4 mr-2">
+    <div class="external-exchanges-img-block pb-2 mr-2">
         <img src="images/specials/special-offers/external-exchanges/2.jpg" alt="Weekend">
         <div class="text-resort">
             <h3>Banana Beach</h3>
         </div>
     </div>
-    <div class="external-exchanges-img-block pb-4 mr-2">
+    <div class="external-exchanges-img-block pb-2 mr-2">
         <img src="images/specials/special-offers/external-exchanges/3.jpg" alt="Full week">
         <div class="text-resort">
             <h3>Illovo Sands</h3>
