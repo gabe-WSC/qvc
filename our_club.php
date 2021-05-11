@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row d-flex">
       <div class="right-div layout-margin-right">
-        <h1 class="mt-4 grey">Our Club</h1>
+        <h1 class="mt-4 grey pl-3 pl-md-0 pl-lg-0 text-left">Our Club</h1>
         <p>
           You are QVC, the holiday ownership elite. You hold the key to unforgettable holidays for the rest of your
           life.
@@ -49,7 +49,7 @@
           <p> <a href="covid19-lockdown.php" style="color: inherit">COVID-19 RELATED NEWS AND UPDATES - CLICK HERE</a>
           </p>
           <br><br>
-          <h2>MEMBER BENEFITS</h2>
+          <h2 class=" pl-3 pl-md-0 pl-lg-0">MEMBER BENEFITS</h2>
           <div class="d-flex flex-column mb-3 flex-md-column flex-sm-column flex-lg-row flex-md-row">
             <div class="outerWrapperBenefits p-3 member-benefit-block">
               <h2 class="white">BENEFIT #1</h2>

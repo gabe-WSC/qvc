@@ -33,17 +33,17 @@
     <!-- page content here -->
     <div class="container pt-4">
         <div class="row">
-            <h1 class="grey">QUALITY VACATION CLUB (QVC) WEBSITE TERMS OF USE</h1><br>
-            <h2 class="grey">Legal Notices<br>
+            <h1 class="grey px-3 pl-md-0 pl-lg-0">QUALITY VACATION CLUB (QVC) WEBSITE TERMS OF USE</h1><br>
+            <h2 class="grey px-3 pl-md-0 pl-lg-0">Legal Notices<br>
                 Last Reviewed September 2015</h2>
             <br><br><br><br>
 
             <p><i>The terms "QVC", "us" or "we" refers to the owner of the website whose registered offices is at Mooikloof Office Park East, corner of Atterbury and Jolify Main Road, Mooikloof, Pretoria, 0059.  Our company registration number is 2007/001866/08. The term "you" refers to the user or viewer of our website.</i></p>
-            <h2 class="grey">Your access to and use of this site is subject to the following terms and conditions, and all applicable South African laws.</h2>
+            <h2 class="grey px-3 pl-md-0 pl-lg-0">Your access to and use of this site is subject to the following terms and conditions, and all applicable South African laws.</h2>
             <br><br>
             <p>By accessing and using this site, you accept the following terms and conditions, without limitation or qualification:</p>
            
-            <ul class="indiResorts">
+            <ul class="indiResorts pr-3">
                 <li>All information contained in this site is for general information purposes only and is subject to change without notice.  You acknowledge that by visiting the site from time to time, you will become bound to the current version of these terms and, unless stated in the current version, all previous versions will be superseded by the current version.  You are responsible for reviewing the current version on each visit to the website.</li>
                 <li>The contents of this site, including any text, images, audio, video, html code, buttons etc. and their arrangement are the property of <strong>Quality Vacation Club (Pty) Ltd</strong> and you may not copy, reproduce or use any such material without our prior written consent.</li>
                 <li>Links on this site may lead to services or sites not operated by us. These links are provided as a convenience to you.  We do not monitor these sites and cannot make representations or warranties regarding the correctness, accuracy, performance or quality of the contents. Your use of these linked sites is subject to the applicable policies and terms and conditions of the specific site.</li>

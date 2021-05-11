@@ -771,11 +771,11 @@ div.feedbackWhite {
 }
 
 .mobile-div-show{
-    display: block;
+    display: block !important;
 }
 
 .mobile-div-hide{
-    display: none;
+    display: none !important;
 }
 /* end of contact page  */
 
@@ -839,15 +839,12 @@ div.feedbackWhite {
     }
 
     .mobile-div-hide{
-        display: none !important;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block;
+        display: none !important;
     }
-    /* .container {
-        max-width: 100%;
-    } */
  }
 
  /* Medium devices (tablets, 768px and up) */
@@ -930,12 +927,19 @@ div.feedbackWhite {
         width: 130px;
     }
 
+    .notice {
+        text-align: left;
+        font-family: 'Arial';
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 120%;
+    }
     .mobile-div-hide{
-        display: none !important;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block;
+        display: none !important;
     }
  }
 
@@ -1071,11 +1075,11 @@ div.feedbackWhite {
     }
 
     .mobile-div-hide{
-        display: none;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block !important;
+        display: none !important;
     }
  }
 

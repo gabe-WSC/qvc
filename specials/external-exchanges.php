@@ -144,7 +144,7 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
 
 <div class="row pb-4">
     <div class="col"><br>
-        <img src="./images/specials/special-offers/external-exchanges/2020/page_banner.jpg"
+        <img class="d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center" src="./images/specials/special-offers/external-exchanges/2020/page_banner.jpg"
             alt="external exchanges banner">
     </div>
     <div class="col">
