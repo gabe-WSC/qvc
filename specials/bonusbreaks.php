@@ -127,7 +127,7 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
     <td height="30"></td>
 </tr> -->
 
-<h1 class="grey" style="margin-bottom: 10px;"><span
+<h1 class="grey py-4" style="margin-bottom: 10px;"><span
         style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>AMAZING
             BONUS BREAKS AWAIT YOU...</strong></span></h1>
 
@@ -159,20 +159,18 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
                 We all sometimes need a long extended breakaway to an idyllic holiday destination! With our Big Break
                 offer, you can now plan a trip to one of VRS’ picturesque Resorts and enjoy 7 days of holidaying bliss.
                 This is just what the doctored ordered!</li>
-
-
         </ol>
     </div>
 </div>
 
 <div class="row d-flex justify-content-center justify-content-lg-center">
-    <div class="bonus-img-block pb-2 mr-2">
+    <div class="bonus-img-block pb-4 mr-2">
         <img src="https://www.qvc.co.za/images/specials/2021/bonusbreaks/web_page-banners_midweek.jpg" alt="Midweek">
     </div>
-    <div class="bonus-img-block pb-2 mr-2">
+    <div class="bonus-img-block pb-4 mr-2">
         <img src="https://www.qvc.co.za/images/specials/2021/bonusbreaks/web_page-banners_weekend.jpg" alt="Weekend">
     </div>
-    <div class="bonus-img-block pb-2 mr-2">
+    <div class="bonus-img-block pb-4 mr-2">
         <img src="https://www.qvc.co.za/images/specials/2021/bonusbreaks/web_page-banners_fullweek.jpg" alt="Full week">
     </div>
 </div>
@@ -197,4 +195,7 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
         <li>Should a member wish to rent out a Bonus Booking, the member will be permitted to agree to our Rental
             Agreement, and will no longer qualify for the discounted rate.</li>
     </ol>
+    <p style="margin-top: 0;"><br/>
+                        <a href="specials.php" target="_blank" style="background-color: #7c046d; padding: 14px 20px; color: white; text-decoration: none">MORE SPECIALS</a>
+                    </p>
 </div>

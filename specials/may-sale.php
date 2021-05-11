@@ -1,10 +1,10 @@
-<tr>
+<!-- <tr>
     <td height="280" valign="top">
         <div style="position: absolute; padding: 0px 20px 0px 25px; background-color: rgba(124, 4, 109, 0.5); margin: -115px 0px 0px 30px; left: 391px; top: 252px;" class="image-wrap" id="wrapper">
             <p class="landingHeading" style="font-size:2.4em;">CREATING <br/> MOMENTS OF <br/> SHEER DELIGHT <br/> AND A LIFETIME <br/> OF MEMORIES</p>
         </div>
     </td>
-</tr>
+</tr> -->
 <tr>
     <td height="50">&nbsp;</td>
 </tr>
