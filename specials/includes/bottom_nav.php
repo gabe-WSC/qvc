@@ -1,4 +1,7 @@
 <div class="container explore mb-4">
+<div class="row d-flex justify-content-between py-4">
+      <div style="height:4px; width:100%; background-color:#7c046d;"></div>
+    </div>
     <div class="row pb-2">
       <div class="col-2 pr-0">
         <h3 class="greyFooter pl-0 explore-heading" style="font-size: 15px;">EXPLORE QVC</h3>
@@ -67,7 +70,8 @@
                 <a href="privacy_policy.php" class="footerContactLinks">Privacy Policy</a>
                 <a href="terms_of_use.php" class="footerContactLinks">Terms &amp; Conditions</a></p>
                 <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">QVC Managing Agent</p>
-                <a href="vrs.php" class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start"><img src="images/VRS_logo.png" width="150" height="54" border="0"></a><br>
+                <a href="vrs.php" class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start"><img src="./images/VRS_logo.png" width="150" height="54" border="0"></a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp; 
         </div>
     </div>
   </div>

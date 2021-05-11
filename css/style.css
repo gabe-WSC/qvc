@@ -428,7 +428,7 @@ p.blockTextWhite {
 
 .member-benefit-block{
     margin-left: 0;
-    height: 160px;
+    height: 175px;
     width: 100%;
 }
 
@@ -771,21 +771,39 @@ div.feedbackWhite {
 }
 
 .mobile-div-show{
-    display: block;
+    display: block !important;
 }
 
 .mobile-div-hide{
-    display: none;
+    display: none !important;
 }
 /* end of contact page  */
 
-/* bonusbreak page */
+/* special page */
 
 .bonus-img-block{
     width: 255px;
 }
 
-/* end of bonusbreak page section */
+.text-resort {
+    position: relative;
+    bottom: 55px;
+    text-transform: uppercase;
+    font-size: 16px;
+    bottom: 66px;
+    text-align: center;
+}
+
+.text-resort h3{
+    color: #fff;
+    font-weight: bold;
+}
+
+.external-exchanges-img-block{
+    
+}
+
+/* end of special page section */
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
@@ -821,15 +839,12 @@ div.feedbackWhite {
     }
 
     .mobile-div-hide{
-        display: none !important;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block;
+        display: none !important;
     }
-    /* .container {
-        max-width: 100%;
-    } */
  }
 
  /* Medium devices (tablets, 768px and up) */
@@ -912,12 +927,19 @@ div.feedbackWhite {
         width: 130px;
     }
 
+    .notice {
+        text-align: left;
+        font-family: 'Arial';
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 120%;
+    }
     .mobile-div-hide{
-        display: none !important;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block;
+        display: none !important;
     }
  }
 
@@ -995,7 +1017,7 @@ div.feedbackWhite {
         padding-right: 10px;
         padding-top: 5px;
         font-style: italic;
-        font-size: 10px;
+        font-size: 13px;
         font-weight: normal;
     }
 
@@ -1053,11 +1075,11 @@ div.feedbackWhite {
     }
 
     .mobile-div-hide{
-        display: none;
+        display: block !important;
     }
 
     .mobile-div-show{
-        display: block !important;
+        display: none !important;
     }
  }
 

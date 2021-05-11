@@ -1,6 +1,6 @@
 <footer>
     <div class="col-sm-12 text-center pb-4">
-      <a href="http://africanblessings.co.za/" target="_blank"><img src="images/african_blessings_logo.png"></a>
+      <a href="http://africanblessings.co.za/" target="_blank"><img src="images/AfricanBlessings-logo2021.png"></a>
       <a href="http://voasa.co.za/#home" target="_blank"><img src="images/VOASA.png" width="150" height="35" border="0"></a>
     </div>
     <div class="col-sm-12" style="background-color:#7c046d;">
