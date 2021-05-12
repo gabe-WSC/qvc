@@ -37,7 +37,7 @@
       <p>VRS is the Club's appointed Managing Agent. Established in 2001 VRS has, through its commitment to excellence and the delivery of outstanding services, gone from strength to strength and is now a market leader in a challenging and extremely competitive industry.</p>
       <p>In addition to QVC, VRS's ever-expanding portfolio includes the management of 6 vacation ownership clubs and 22 holiday resorts in South Africa, Kenya and Botswana. This role involves the full on and off-site management of these resorts and the vital task of ensuring that they achieve the highest possible standards and reflect maximum occupancy, with the resultant benefits to the stakeholders and communities in which these resorts are located. </p>
       <div style="background-color:#7a056e; color:white; padding:15px; height:330;">
-                            	<p class="white">VRS specialises in Management and Administrative functions within the Leisure / Hospitality Industry and all aspects of vacation ownership club management and administration.</p>
+                            	<p class="white px-0">VRS specialises in Management and Administrative functions within the Leisure / Hospitality Industry and all aspects of vacation ownership club management and administration.</p>
                             </div>
         <p class="pt-3">VRS is extremely proud to be the Managing Agent for QVC and play a vital role in providing our QVC families with <span style="color:#7c046d;">"MOMENTS OF SHEER DELIGHT AND A LIFETIME OF MEMORIES".</span></p>
     </div>

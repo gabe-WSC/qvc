@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="row pl-3">
-                    <div class="" style="width:165px">
+                    <div class="">
                                 <p class="blockTextWhite">
                                     Telephone:<br>
                                     Fax:<br><br>
@@ -96,7 +96,7 @@
                     </p>
 
                     <div class="row pl-3 pl-0">
-                    <div class="" style="width:170px">
+                    <div class="">
                                 <p class="blockTextWhite">
                                 Monday:<br>
                                 Tuesday:<br>
@@ -105,7 +105,7 @@
                                 Friday:
                                 </p>
                             </div>
-                            <div class="" style="width:240px">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     08:00 to 16:00<br>
                                     08:00 to 16:00<br>
@@ -139,7 +139,7 @@
                                 Postal Address:<br>
                                 </p>
                             </div>
-                            <div class="" style="width:240px">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     Mooikloof Office Park East<br>
                                     c/o Atterbury and Jollify Main Road,<br>
@@ -167,7 +167,7 @@
 
                 <div style="padding:20px; background-color:#e3e3e3;">
                     <h2 class="grey">IMPORTANT NOTICES</h2><br>
-                    <p>
+                    <p class="px-0">
                         For swift service, please consider the following guidelines. They are set out to improve
                         efficiency regarding email and telephonic responses.<br><br>
 
@@ -195,7 +195,7 @@
             <img src="images/directions2.jpg" alt="directions" id="directions_img">
             </div>
             <div class="right-div">
-            <h1 class="grey" style="padding:10px 0px 0px 20px;">EMAIL CORRESPONDENCE</h1>
+            <h1 class="grey px-2" style="padding:10px 0px 0px 20px;">EMAIL CORRESPONDENCE</h1>
                     <div style="background-color:purple; color:white; padding:10px; font-size:22px;">RESERVATIONS</div>
                     <p style="padding: 10px 20px 10px 20px; font-size: 14px; margin-bottom: 0">When requesting a booking, please supply the following information: <br>
                         <!-- <li>The number of people to be accommodated (including children and infants)</li>

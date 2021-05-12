@@ -912,6 +912,7 @@ div.feedbackWhite {
         text-align: center;
         z-index: 20;
         width: 130px;
+        font-size: 15px;
     }
 
     .notice {

@@ -12,12 +12,12 @@
         <div class="explore-column" style="background-color:#dfdfdf;">
           <!-- <h3 class="greyFooter">EXPLORE QVC</h3> -->
           <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">
-            <a href="resort_portfolio.php" class="footerLinks">Resort Portfolio</a>
-              <a href="our_club.php" class="footerLinks">Our Club</a>
-              <a href="feedback.php" class="footerLinks">Member Feedback</a>
-              <a href="faq.php" class="footerLinks">FAQ</a>
-              <a href="contact_us.php" class="footerLinks">Contact Us</a>
-              <a href="specials.php" class="footerLinks">Member Specials</a>
+            <a href="../resort_portfolio.php" class="footerLinks">Resort Portfolio</a>
+              <a href="../our_club.php" class="footerLinks">Our Club</a>
+              <a href="../feedback.php" class="footerLinks">Member Feedback</a>
+              <a href="../faq.php" class="footerLinks">FAQ</a>
+              <a href="../contact_us.php" class="footerLinks">Contact Us</a>
+              <a href="../specials.php" class="footerLinks">Member Specials</a>
              <a href="http://online.qvc.co.za/login/auth" class="footerLinks">Member Login</a> 
             <!--   <a href="portal-notice.php" class="footerLinks">Member Login</a>-->
               
