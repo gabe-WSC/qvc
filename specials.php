@@ -55,7 +55,7 @@
     <?php
         switch($id) {
             case 'external-exchanges':
-                echo '<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+                echo '<h1 class="grey py-4 text-center text-sm-left" style="margin-bottom: 10px;"><span
                 style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>EXTERNAL
                     EXCHANGES</strong></span></h1>
         <h1><span class="pb-3" style="line-height: 1em;
@@ -84,7 +84,7 @@
                 include 'specials/may-sale.php';
                 break;
             default:
-                echo '<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+                echo '<h1 class="grey py-4 text-center text-sm-left" style="margin-bottom: 10px;"><span
                 style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>Seasonal
                 Members Offers</strong></span></h1>
         <h1><span class="pb-3" style="line-height: 1em;

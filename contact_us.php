@@ -49,7 +49,7 @@
         <div class="row d-flex pt-4">
             <div class="right-div layout-margin-right">
                 <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
-                    <div class="d-lg-none d-xl-none">
+                    <div class="d-none">
                         <p class="blockTextWhite p-0 m-0">Telephone:</p>
                         <p class="blockTextWhite p-0 m-0">+27 (0)12 492 1230</p><br>
 
@@ -63,8 +63,8 @@
                         <p class="blockTextWhite p-0 m-0">correspondence@vrs.co.za</p><br>
                     </div>
 
-                    <div class="row d-flex pl-3">
-                    <div class="d-sm-none" style="width:170px">
+                    <div class="row pl-3">
+                    <div class="" style="width:165px">
                                 <p class="blockTextWhite">
                                     Telephone:<br>
                                     Fax:<br><br>
@@ -72,7 +72,7 @@
                                     Reservations Email:
                                 </p>
                             </div>
-                            <div class="d-sm-none">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     +27 (0)12 492 1230<br>
                                     +27 (0)12 996 0556<br><br>
@@ -87,17 +87,15 @@
                 
 
                 <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#5c0150;">
-                    <p class="blockTextWhite p-0 m-0">Office Hours:<br>
-                        <div class="d-lg-none d-xl-none d-sm-none">
-                        Monday: 08:00 to 16:00<br>
+                    <p class="blockTextWhite p-0 m-0 d-none">Office Hours:<br>
+                         Monday: 08:00 to 16:00<br>
                         Tuesday: 08:00 to 16:00<br>
-                        Wednesday: 08:00 to 12:00<br>
+                        Wednesday: 08:00 to <span style="color:#E8B0FD">12:00</span><br>
                         Thursday: 08:00 to 16:00<br>
-                        Friday: 08:00 to 16:00<br>
-                        </div>
+                        Friday: 08:00 to 16:00
                     </p>
 
-                    <div class="row pl-3 d-flex d-md-none d-sm-none">
+                    <div class="row pl-3 pl-0">
                     <div class="" style="width:170px">
                                 <p class="blockTextWhite">
                                 Monday:<br>
@@ -120,7 +118,7 @@
                 </div>
 
                 <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#b8b8b8;">
-                   <div class="d-lg-none d-xl-none d-sm-none">
+                   <div class="d-none">
                     <p class="blockTextWhite p-0 m-0">Physical Address:</p>
                         <p class="blockTextWhite p-0 m-0">Mooikloof Office Park East
                             c/o Atterbury and Jollify Main Road,<br>
@@ -134,22 +132,22 @@
 
                    </div>
 
-                <div class="row pl-3 d-flex">
-                    <div class="d-md-none" style="width:170px">
+                <div class="row pl-3">
+                    <div class="" style="width:170px">
                                 <p class="blockTextWhite">
-                                Physical Address:<br><br><br><br><br><br>
+                                Physical Address:<br><br><br><br><br><br><br>
                                 Postal Address:<br>
                                 </p>
                             </div>
-                            <div class="d-md-none" style="width:240px">
+                            <div class="" style="width:240px">
                                 <p class="blockTextWhite">
                                     Mooikloof Office Park East<br>
                                     c/o Atterbury and Jollify Main Road,<br>
                                     Mooikloof<br>
                                     Pretoria, Gauteng,<br>
                                     South Africa
-                                </p>
-                                <p class="blockTextWhite">P.O.Box 35580<br>
+                                </p><br>
+                                <p class="blockTextWhite ">P.O.Box 35580<br>
                                     Menlopark,
                                     0102
                                 </p>

@@ -770,13 +770,6 @@ div.feedbackWhite {
     height: 679px;
 }
 
-.mobile-div-show{
-    display: block !important;
-}
-
-.mobile-div-hide{
-    display: none !important;
-}
 /* end of contact page  */
 
 /* special page */
@@ -799,8 +792,8 @@ div.feedbackWhite {
     font-weight: bold;
 }
 
-.external-exchanges-img-block{
-    
+.mobile-div-hide{
+    display: none;
 }
 
 /* end of special page section */
@@ -838,13 +831,7 @@ div.feedbackWhite {
         margin-left: 0px;
     }
 
-    .mobile-div-hide{
-        display: block !important;
-    }
-
-    .mobile-div-show{
-        display: none !important;
-    }
+   
  }
 
  /* Medium devices (tablets, 768px and up) */
@@ -934,13 +921,7 @@ div.feedbackWhite {
         font-weight: normal;
         line-height: 120%;
     }
-    .mobile-div-hide{
-        display: block !important;
-    }
-
-    .mobile-div-show{
-        display: none !important;
-    }
+   
  }
 
  /* Large devices (desktops, 992px and up) */
@@ -1074,13 +1055,7 @@ div.feedbackWhite {
         margin-bottom: 0px;
     }
 
-    .mobile-div-hide{
-        display: block !important;
-    }
-
-    .mobile-div-show{
-        display: none !important;
-    }
+   
  }
 
  a.purpleLinks {
@@ -1278,12 +1253,6 @@ a.faqLinksDark:hover {
         margin-bottom: 0px;
     }
 
-    .mobile-div-hide{
-        display: block !important;
-    }
-
-    .mobile-div-show{
-        display: none !important;
-    }
+   
 
  }
