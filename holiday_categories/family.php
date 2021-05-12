@@ -12,11 +12,7 @@ resortData('baywater village');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/style.css">
-    <title>QVC</title>
+    <?php include('includes/header.php');?>
 </head>
 
 <body>
@@ -299,7 +295,7 @@ resortData('baywater village');
             </div>
 
             <div class="row py-4 justify-content-end">
-                <?php include('../includes/resort_finder.php');?>
+                <?php include('includes/resort_finder.php');?>
 
             </div>
 
@@ -335,6 +331,24 @@ resortData('baywater village');
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
-</body>
+<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2196019-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script><script>
+    $(document).ready(function () {
+      if(Cookies.get('ga') === undefined){
+      setTimeout(function () {
+        $('.cookieinfo').modal('show');
+      }, 2000);
+      }
+    });
+  </script>  </body>
 
 </html>

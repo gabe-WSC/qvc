@@ -26,7 +26,7 @@
           class="innerWrapper">holiday options &gt;</a></div>
       <div class="outerWrapperBenefits outerWrapper">Pamper / Spa Breaks <a href="./holiday_categories/spa.php"
           class="innerWrapper">holiday options &gt;</a></div>
-      <div class="outerWrapperBenefits outerWrapper">Bush / Wildlife<br><br> <a href="./holiday_categories/wildfire.php"
+      <div class="outerWrapperBenefits outerWrapper">Bush / Wildlife<br><br> <a href="./holiday_categories/wildlife.php"
           class="innerWrapper">holiday options &gt;</a></div>
       <div class="outerWrapperBenefits outerWrapper">Adventure &amp; Sports <a href="./holiday_categories/adventure.php"
           class="innerWrapper">holiday options &gt;</a></div>

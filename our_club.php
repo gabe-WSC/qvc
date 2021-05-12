@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <?php include('includes/header.php');?>
-  <title>QVC</title>
+  <title>QVC - Our Club</title>
 </head>
 
 <body>
@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row d-flex">
       <div class="right-div layout-margin-right">
-        <h1 class="mt-4 grey pl-3 pl-md-0 pl-lg-0 text-left">Our Club</h1>
+        <h1 class="mt-4 grey pl-3 pl-md-0 pl-lg-0 text-center text-md-left text-lg-left">Our Club</h1>
         <p>
           You are QVC, the holiday ownership elite. You hold the key to unforgettable holidays for the rest of your
           life.
@@ -109,13 +109,9 @@
 
   <?php include('includes/notice_block.php'); ?>
 
-  <?php 
-  // include('includes/cookie_banner.php'); 
-  ?>
-
   <?php include('includes/footer.php'); ?>
 
-  <?php include('includes/cookie_modal.php'); ?>
+  <?php include('includes/cookie_banner.php'); ?>
 
 
   <!-- Optional JavaScript -->
@@ -131,16 +127,25 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 
-  <script>
-    // $(document).ready(function () {
-    //   if(Cookies.get('_gid') === undefined){
-    //   setTimeout(function () {
-    //     $('#cookie_modal').modal('show');
-    //   }, 2000);
-    //   }
-    // });
-  </script>
+<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2196019-1']);
+	_gaq.push(['_trackPageview']);
 
-</body>
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+<script>
+    $(document).ready(function () {
+      if(Cookies.get('ga') === undefined){
+      setTimeout(function () {
+        $('.cookieinfo').modal('show');
+      }, 2000);
+      }
+    });
+  </script>  </body>
 
 </html>

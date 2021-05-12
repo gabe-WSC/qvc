@@ -127,21 +127,6 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
     <td height="30"></td>
 </tr> -->
 
-<h1 class="grey py-4" style="margin-bottom: 10px;"><span
-        style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>EXTERNAL
-            EXCHANGES</strong></span></h1>
-<h1><span class="pb-3" style="line-height: 1em;
-    display: block;
-    /* font-size: 2em; */
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    font-size: 18px;">This innovative exchange platform has been designed with YOU in mind. Giving you access to more
-        resorts, more intervals and more options, so that you can create more everlasting holiday memories with your
-        loved ones.</span></h1>
-
 <div class="row pb-4">
     <div class="col d-flex justify-content-center justify-content-sm-center justify-content-md-start justify-content-lg-start justify-content-xl-center"><br>
         <img class="" src="./images/specials/special-offers/external-exchanges/2020/page_banner.jpg"

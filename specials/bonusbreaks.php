@@ -127,9 +127,9 @@ Need a break from your daily routine?! Well, you can set-off for a lovely break 
     <td height="30"></td>
 </tr> -->
 
-<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+<!-- <h1 class="grey py-4" style="margin-bottom: 10px;"><span
         style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>AMAZING
-            BONUS BREAKS AWAIT YOU...</strong></span></h1>
+            BONUS BREAKS AWAIT YOU...</strong></span></h1> -->
 
 <div class="row">
     <div class="col">

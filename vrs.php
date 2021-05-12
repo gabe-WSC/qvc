@@ -1,3 +1,7 @@
+<?php 
+  $current_page = "our_club.php";
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -6,19 +10,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
-  <title>QVC</title>
+  <?php include('includes/header.php');?>
+  <title>QVC - VRS</title>
 </head>
 
 <body>
 
-<?php include('includes/nav.php');?>
-<?php include('includes/second_nav.php');?>
+  <?php include('includes/nav.php');?>
+  <?php include('includes/second_nav.php');?>
 
-  
+
   <div>
     <div class="jumbotron-fluid myx-0" id="jumbotron" style="background-image: url(images/background/back2.jpg);"><br>
       <div class="jumbotron-block container">
@@ -27,41 +28,39 @@
     </div>
   </div>
 
-  
-<!-- page content here -->
   <div class="container">
-    <div class="row d-flex">
+    <div class="row pt-4 d-flex">
       <div class="right-div layout-margin-right">
-        <h1 class="mt-4 grey">Our Club</h1>
+      <img src="images/VRS_logo.png" width="245" height="88" alt="VRS">
+      <h1 class="grey pt-4 text-center text-md-left text-lg-left">Vacation Recreational Service</h1>
       
-      </div>
+      <p>VRS is the Club's appointed Managing Agent. Established in 2001 VRS has, through its commitment to excellence and the delivery of outstanding services, gone from strength to strength and is now a market leader in a challenging and extremely competitive industry.</p>
+      <p>In addition to QVC, VRS's ever-expanding portfolio includes the management of 6 vacation ownership clubs and 22 holiday resorts in South Africa, Kenya and Botswana. This role involves the full on and off-site management of these resorts and the vital task of ensuring that they achieve the highest possible standards and reflect maximum occupancy, with the resultant benefits to the stakeholders and communities in which these resorts are located. </p>
+      <div style="background-color:#7a056e; color:white; padding:15px; height:330;">
+                            	<p class="white px-0">VRS specialises in Management and Administrative functions within the Leisure / Hospitality Industry and all aspects of vacation ownership club management and administration.</p>
+                            </div>
+        <p class="pt-3">VRS is extremely proud to be the Managing Agent for QVC and play a vital role in providing our QVC families with <span style="color:#7c046d;">"MOMENTS OF SHEER DELIGHT AND A LIFETIME OF MEMORIES".</span></p>
+    </div>
       <div class="left-div">
-        <a href="specials.php"><img src="https://www.qvc.co.za/mailers/festive-season/web%20badge_3.jpg"
-            class="img-responsive header-img mx-auto mt-4" alt="Members Specials"></a> </p>
-         
+      <img src="images/tree.jpg" width="325" height="620" alt="tree" class="w-100">
       </div>
     </div>
-  
+
   </div>
-  
+
+
   <?php include('includes/holiday_category.php');?>
 
   <?php include('includes/bottom_nav.php'); ?>
 
   <?php include('includes/notice_block.php'); ?>
 
-  <?php include('includes/cookie_banner.php'); ?>
+  <?php 
+  include('includes/cookie_banner.php'); 
+  ?>
 
   <?php include('includes/footer.php'); ?>
 
-
-  
-  
-
-
-  
-
-  
 
 
   <!-- Optional JavaScript -->
@@ -75,6 +74,18 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
   </script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+  <script>
+    // $(document).ready(function () {
+    //   if(Cookies.get('_gid') === undefined){
+    //   setTimeout(function () {
+    //     $('#cookie_modal').modal('show');
+    //   }, 2000);
+    //   }
+    // });
+  </script>
+
 <script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2196019-1']);

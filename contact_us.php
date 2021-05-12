@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <?php include('includes/header.php');?>
-    <title>QVC</title>
+    <title>QVC - Contact Us</title>
 
     <link rel="shortcut icon" href="img/demopage/favicon.png">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Karla%7CMontserrat">
@@ -49,7 +49,7 @@
         <div class="row d-flex pt-4">
             <div class="right-div layout-margin-right">
                 <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
-                    <div class="d-lg-none d-xl-none">
+                    <div class="d-none">
                         <p class="blockTextWhite p-0 m-0">Telephone:</p>
                         <p class="blockTextWhite p-0 m-0">+27 (0)12 492 1230</p><br>
 
@@ -63,8 +63,8 @@
                         <p class="blockTextWhite p-0 m-0">correspondence@vrs.co.za</p><br>
                     </div>
 
-                    <div class="row d-flex pl-3">
-                    <div class="d-sm-none" style="width:170px">
+                    <div class="row pl-3">
+                    <div class="">
                                 <p class="blockTextWhite">
                                     Telephone:<br>
                                     Fax:<br><br>
@@ -72,7 +72,7 @@
                                     Reservations Email:
                                 </p>
                             </div>
-                            <div class="d-sm-none">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     +27 (0)12 492 1230<br>
                                     +27 (0)12 996 0556<br><br>
@@ -87,18 +87,16 @@
                 
 
                 <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#5c0150;">
-                    <p class="blockTextWhite p-0 m-0">Office Hours:<br>
-                        <div class="d-lg-none d-xl-none d-sm-none">
-                        Monday: 08:00 to 16:00<br>
+                    <p class="blockTextWhite p-0 m-0 d-none">Office Hours:<br>
+                         Monday: 08:00 to 16:00<br>
                         Tuesday: 08:00 to 16:00<br>
-                        Wednesday: 08:00 to 12:00<br>
+                        Wednesday: 08:00 to <span style="color:#E8B0FD">12:00</span><br>
                         Thursday: 08:00 to 16:00<br>
-                        Friday: 08:00 to 16:00<br>
-                        </div>
+                        Friday: 08:00 to 16:00
                     </p>
 
-                    <div class="row pl-3 d-flex d-md-none d-sm-none">
-                    <div class="" style="width:170px">
+                    <div class="row pl-3 pl-0">
+                    <div class="">
                                 <p class="blockTextWhite">
                                 Monday:<br>
                                 Tuesday:<br>
@@ -107,7 +105,7 @@
                                 Friday:
                                 </p>
                             </div>
-                            <div class="" style="width:240px">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     08:00 to 16:00<br>
                                     08:00 to 16:00<br>
@@ -120,7 +118,7 @@
                 </div>
 
                 <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#b8b8b8;">
-                   <div class="d-lg-none d-xl-none d-sm-none">
+                   <div class="d-none">
                     <p class="blockTextWhite p-0 m-0">Physical Address:</p>
                         <p class="blockTextWhite p-0 m-0">Mooikloof Office Park East
                             c/o Atterbury and Jollify Main Road,<br>
@@ -134,22 +132,22 @@
 
                    </div>
 
-                <div class="row pl-3 d-flex">
-                    <div class="d-md-none" style="width:170px">
+                <div class="row pl-3">
+                    <div class="" style="width:170px">
                                 <p class="blockTextWhite">
-                                Physical Address:<br><br><br><br><br><br>
+                                Physical Address:<br><br><br><br><br><br><br>
                                 Postal Address:<br>
                                 </p>
                             </div>
-                            <div class="d-md-none" style="width:240px">
+                            <div class="">
                                 <p class="blockTextWhite">
                                     Mooikloof Office Park East<br>
                                     c/o Atterbury and Jollify Main Road,<br>
                                     Mooikloof<br>
                                     Pretoria, Gauteng,<br>
                                     South Africa
-                                </p>
-                                <p class="blockTextWhite">P.O.Box 35580<br>
+                                </p><br>
+                                <p class="blockTextWhite ">P.O.Box 35580<br>
                                     Menlopark,
                                     0102
                                 </p>
@@ -169,7 +167,7 @@
 
                 <div style="padding:20px; background-color:#e3e3e3;">
                     <h2 class="grey">IMPORTANT NOTICES</h2><br>
-                    <p>
+                    <p class="px-0">
                         For swift service, please consider the following guidelines. They are set out to improve
                         efficiency regarding email and telephonic responses.<br><br>
 
@@ -197,7 +195,7 @@
             <img src="images/directions2.jpg" alt="directions" id="directions_img">
             </div>
             <div class="right-div">
-            <h1 class="grey" style="padding:10px 0px 0px 20px;">EMAIL CORRESPONDENCE</h1>
+            <h1 class="grey px-2" style="padding:10px 0px 0px 20px;">EMAIL CORRESPONDENCE</h1>
                     <div style="background-color:purple; color:white; padding:10px; font-size:22px;">RESERVATIONS</div>
                     <p style="padding: 10px 20px 10px 20px; font-size: 14px; margin-bottom: 0">When requesting a booking, please supply the following information: <br>
                         <!-- <li>The number of people to be accommodated (including children and infants)</li>
@@ -244,6 +242,24 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
-</body>
+<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2196019-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script><script>
+    $(document).ready(function () {
+      if(Cookies.get('ga') === undefined){
+      setTimeout(function () {
+        $('.cookieinfo').modal('show');
+      }, 2000);
+      }
+    });
+  </script>  </body>
 
 </html>
