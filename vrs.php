@@ -56,12 +56,11 @@
   <?php include('includes/notice_block.php'); ?>
 
   <?php 
-  // include('includes/cookie_banner.php'); 
+  include('includes/cookie_banner.php'); 
   ?>
 
   <?php include('includes/footer.php'); ?>
 
-  <?php include('includes/cookie_modal.php'); ?>
 
 
   <!-- Optional JavaScript -->
@@ -97,6 +96,14 @@
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-	</script></body>
+	</script><script>
+    $(document).ready(function () {
+      if(Cookies.get('ga') === undefined){
+      setTimeout(function () {
+        $('.cookieinfo').modal('show');
+      }, 2000);
+      }
+    });
+  </script>  </body>
 
 </html>

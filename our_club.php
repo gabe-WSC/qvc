@@ -109,13 +109,9 @@
 
   <?php include('includes/notice_block.php'); ?>
 
-  <?php 
-  // include('includes/cookie_banner.php'); 
-  ?>
-
   <?php include('includes/footer.php'); ?>
 
-  <?php include('includes/cookie_modal.php'); ?>
+  <?php include('includes/cookie_banner.php'); ?>
 
 
   <!-- Optional JavaScript -->
@@ -131,16 +127,6 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 
-  <script>
-    // $(document).ready(function () {
-    //   if(Cookies.get('_gid') === undefined){
-    //   setTimeout(function () {
-    //     $('#cookie_modal').modal('show');
-    //   }, 2000);
-    //   }
-    // });
-  </script>
-
 <script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2196019-1']);
@@ -151,6 +137,15 @@
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-	</script></body>
+	</script>
+<script>
+    $(document).ready(function () {
+      if(Cookies.get('ga') === undefined){
+      setTimeout(function () {
+        $('.cookieinfo').modal('show');
+      }, 2000);
+      }
+    });
+  </script>  </body>
 
 </html>
