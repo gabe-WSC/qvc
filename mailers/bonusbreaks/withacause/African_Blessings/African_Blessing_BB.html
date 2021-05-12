@@ -287,8 +287,8 @@ When you purchase a <strong style="font-size: 20px; color: #F06733">Bonus Break,
 	</script><script>
     $(document).ready(function () {
 
-      if(Cookies.get('__utma')){
-        $('.cookieinfo').hide();
+      if(!Cookies.get('__utma')){
+        $('.cookieinfo').show();
       }
 
       $('.cookieinfo-close').click(function(){

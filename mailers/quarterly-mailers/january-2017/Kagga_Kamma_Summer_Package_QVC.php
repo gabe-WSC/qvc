@@ -321,8 +321,8 @@ not the timeshare accommodation and cannot be redeemed with club points.</td>
 	</script><script>
     $(document).ready(function () {
 
-      if(Cookies.get('__utma')){
-        $('.cookieinfo').hide();
+      if(!Cookies.get('__utma')){
+        $('.cookieinfo').show();
       }
 
       $('.cookieinfo-close').click(function(){

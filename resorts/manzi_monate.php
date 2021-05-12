@@ -175,8 +175,8 @@ resortData('manzi monate');
 	</script><script>
     $(document).ready(function () {
 
-      if(Cookies.get('__utma')){
-        $('.cookieinfo').hide();
+      if(!Cookies.get('__utma')){
+        $('.cookieinfo').show();
       }
 
       $('.cookieinfo-close').click(function(){

@@ -313,8 +313,8 @@ close to attractions, <strong style="color: #064974;">you will surely have a gre
 	</script><script>
     $(document).ready(function () {
 
-      if(Cookies.get('__utma')){
-        $('.cookieinfo').hide();
+      if(!Cookies.get('__utma')){
+        $('.cookieinfo').show();
       }
 
       $('.cookieinfo-close').click(function(){
