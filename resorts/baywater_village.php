@@ -169,6 +169,7 @@ resortData('baywater village');
 
   <!-- Optional JavaScript -->
   <script src="../js/jquery-1.11.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
   </script>
@@ -188,9 +189,9 @@ resortData('baywater village');
 	})();
 	</script><script>
     $(document).ready(function () {
-      if(Cookies.get('ga') === undefined){
+      if(Cookies.get('__utmb') === undefined){
       setTimeout(function () {
-        $('.cookieinfo').modal('show');
+        $('.cookieinfo').hide();
       }, 2000);
       }
     });

@@ -291,9 +291,9 @@ When you purchase a <strong style="font-size: 20px; color: #F06733">Bonus Break,
 	})();
 	</script><script>
     $(document).ready(function () {
-      if(Cookies.get('ga') === undefined){
+      if(Cookies.get('__utmb') === undefined){
       setTimeout(function () {
-        $('.cookieinfo').modal('show');
+        $('.cookieinfo').hide();
       }, 2000);
       }
     });

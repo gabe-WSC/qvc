@@ -100,9 +100,9 @@ body {
 	})();
 	</script><script>
     $(document).ready(function () {
-      if(Cookies.get('ga') === undefined){
+      if(Cookies.get('__utmb') === undefined){
       setTimeout(function () {
-        $('.cookieinfo').modal('show');
+        $('.cookieinfo').hide();
       }, 2000);
       }
     });

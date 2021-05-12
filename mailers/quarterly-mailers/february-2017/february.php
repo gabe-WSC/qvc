@@ -501,9 +501,9 @@ You have some fantastic options to use your Club Units before they expire. Be su
 	})();
 	</script><script>
     $(document).ready(function () {
-      if(Cookies.get('ga') === undefined){
+      if(Cookies.get('__utmb') === undefined){
       setTimeout(function () {
-        $('.cookieinfo').modal('show');
+        $('.cookieinfo').hide();
       }, 2000);
       }
     });
