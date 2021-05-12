@@ -127,24 +127,33 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 
-<script>
+<!-- <script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2196019-1']);
 	_gaq.push(['_trackPageview']);
 
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-	</script>
+	</script> -->
 <script>
     $(document).ready(function () {
-      if(Cookies.get('__utmb') === undefined){
-      setTimeout(function () {
+      if(Cookies.get('__utma')){
         $('.cookieinfo').hide();
-      }, 2000);
       }
+   
+      $('.cookieinfo-close').click(function(){
+        $('.cookieinfo').hide();
+        if(Cookies.get('__utma') === undefined){
+        var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-2196019-1']);
+	    _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+        $('.cookieinfo').hide();
+      }
+      })
     });
   </script>  </body>
 
