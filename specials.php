@@ -1,11 +1,11 @@
 <?php 
   $current_page = "specials.php";
-
   if(isset($_GET['id'])) {
     $id = $_GET['id'];
     $pageID = '?id=' . $id;
+}else{
+  $id = '';
 }
-$id = 'external-exchanges';
 ?>
 <!doctype html>
 <html lang="en">
@@ -34,11 +34,11 @@ $id = 'external-exchanges';
 
   <!-- page content  -->
   <div class="container">
-    <div class="row pt-3">
-      <!-- <span
+    <!-- <div class="row pt-3">
+      <span
         style="font-size:40px; padding:10px; color:#5c0150; text-align: center; text-transform: uppercase"><strong>Seasonal
-          Members Offers</strong></span> -->
-      <!-- <div style="margin: 15px;">
+          Members Offers</strong></span>
+      <div style="margin: 15px;">
 
         <h1><span style="line-height: 1em;
     display: block;
@@ -49,8 +49,55 @@ $id = 'external-exchanges';
     margin-inline-end: 0px;
     font-weight: bold;
     font-size: 26px;">Exciting promotions, add-ons and offers to enhance your holiday experience. </span></h1>
-      </div> -->
-    </div>
+      </div>
+    </div> -->
+
+    <?php
+        switch($id) {
+            case 'external-exchanges':
+                echo '<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+                style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>EXTERNAL
+                    EXCHANGES</strong></span></h1>
+        <h1><span class="pb-3" style="line-height: 1em;
+            display: block;
+            /* font-size: 2em; */
+            margin-block-start: 0.67em;
+            margin-block-end: 0.67em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+            font-size: 18px;">This innovative exchange platform has been designed with YOU in mind. Giving you access to more
+                resorts, more intervals and more options, so that you can create more everlasting holiday memories with your
+                loved ones.</span></h1>';
+                break;
+            case 'finite-units':
+                include 'specials/finite-units.php';
+                break;
+		    case 'bonusbreaks':
+                echo '<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+                style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>AMAZING BONUS BREAKS AWAIT YOU...</strong></span></h1>';
+                break;
+			 case 'mnarani2021':
+                include 'specials/mnarani.php';
+                break;
+			case 'may-sale':
+                include 'specials/may-sale.php';
+                break;
+            default:
+                echo '<h1 class="grey py-4" style="margin-bottom: 10px;"><span
+                style="font-size:30px; padding:10px 0; color:#5c0150; text-align: center; text-transform: uppercase;"><strong>Seasonal
+                Members Offers</strong></span></h1>
+        <h1><span class="pb-3" style="line-height: 1em;
+            display: block;
+            /* font-size: 2em; */
+            margin-block-start: 0.67em;
+            margin-block-end: 0.67em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+            font-size: 18px;">Exciting promotions, add-ons and offers to enhance your holiday experience.</span></h1>';
+        }
+        ?>
 
     <div
       class="row d-flex justify-content-between justify-content-sm-center justify-content-md-center  justify-content-lg-between px-4">

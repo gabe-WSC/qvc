@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row d-flex">
       <div class="right-div layout-margin-right">
-        <h1 class="mt-4 grey pl-3 pl-md-0 pl-lg-0 text-left">Our Club</h1>
+        <h1 class="mt-4 grey pl-3 pl-md-0 pl-lg-0 text-center text-md-left text-lg-left">Our Club</h1>
         <p>
           You are QVC, the holiday ownership elite. You hold the key to unforgettable holidays for the rest of your
           life.

@@ -22,9 +22,9 @@
         </div>
 
         <div class="special-block pb-4">
-            <a href="https://www.qvc.co.za/specials.php?id=external-exchanges" target="_blank"><img src="https://www.qvc.co.za/images/specials/special-offers/external-exchanges/2020/Header_Exchange_Web_banner.jpg" width="400" height="300" alt="7Accross"></a>
+            <a href="./specials.php?id=external-exchanges" target="_blank"><img src="https://www.qvc.co.za/images/specials/special-offers/external-exchanges/2020/Header_Exchange_Web_banner.jpg" width="400" height="300" alt="7Accross"></a>
             <div class="special-btn">
-                <a href="https://www.qvc.co.za/specials.php?id=external-exchanges" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
+                <a href="./specials.php?id=external-exchanges" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
             </div>
         </div>
 
@@ -32,13 +32,6 @@
             <a href="https://www.gomelo.co.za/blog/197/have-your-cake-and-30-off-3-7-may-2021" target="_blank"><img src="https://www.qvc.co.za/images/specials/2021/gomelo/GoMelo_May_Offer.jpg" width="400" height="300" alt="7Accross"></a>
             <div class="special-btn">
                 <a href="https://www.gomelo.co.za/blog/197/have-your-cake-and-30-off-3-7-may-2021" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
-            </div>
-        </div>
-
-        <div class="special-block pb-4">
-            <a href="https://www.qvc.co.za/specials.php?id=may-sale" target="_blank"><img src="https://www.qvc.co.za/images/specials/2021/may/banners_specials-mainbanner.jpg" width="400" height="300" alt="May Sale"></a>
-            <div class="special-btn">
-                <a href="./specials.php?id=may-sale" class="special-btn" target="_blank" style="color:#FFF">Click here</a>TO FIND OUT MORE…
             </div>
         </div>
         
