@@ -49,22 +49,22 @@
         <div class="row d-flex pt-4">
             <div class="right-div layout-margin-right">
                 <div class="outerWrapperBenefits mt-4 mb-0" style="padding:20px; background-color:#7c046d;">
-                    <div class="d-none">
-                        <p class="blockTextWhite p-0 m-0">Telephone:</p>
-                        <p class="blockTextWhite p-0 m-0">+27 (0)12 492 1230</p><br>
+                    <div class="">
+                        <p class="blockTextWhite p-0 m-0 text-center">Telephone:</p>
+                        <p class="blockTextWhite p-0 m-0 text-center">+27 (0)12 492 1230</p><br>
 
-                        <p class="blockTextWhite p-0 m-0">Fax: </p>
-                        <p class="blockTextWhite p-0 m-0">+27 (0)12 996 0556</p><br>
+                        <p class="blockTextWhite p-0 m-0 text-center">Fax: </p>
+                        <p class="blockTextWhite p-0 m-0 text-center">+27 (0)12 996 0556</p><br>
 
-                        <p class="blockTextWhite p-0 m-0">General Enquiries Email:</p>
-                        <p class="blockTextWhite p-0 m-0">correspondence@vrs.co.za</p><br>
+                        <p class="blockTextWhite p-0 m-0 text-center">General Enquiries Email:</p>
+                        <p class="blockTextWhite p-0 m-0 text-center">correspondence@vrs.co.za</p><br>
 
-                        <p class="blockTextWhite p-0 m-0">Reservations Email:</p>
-                        <p class="blockTextWhite p-0 m-0">correspondence@vrs.co.za</p><br>
+                        <p class="blockTextWhite p-0 m-0 text-center">Reservations Email:</p>
+                        <p class="blockTextWhite p-0 m-0 text-center">correspondence@vrs.co.za</p><br>
                     </div>
 
                     <div class="row pl-3">
-                    <div class="">
+                    <div class="d-none">
                                 <p class="blockTextWhite">
                                     Telephone:<br>
                                     Fax:<br><br>
@@ -72,7 +72,7 @@
                                     Reservations Email:
                                 </p>
                             </div>
-                            <div class="">
+                            <div class="d-none">
                                 <p class="blockTextWhite">
                                     +27 (0)12 492 1230<br>
                                     +27 (0)12 996 0556<br><br>
@@ -86,8 +86,8 @@
 
                 
 
-                <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#5c0150;">
-                    <p class="blockTextWhite p-0 m-0 d-none">Office Hours:<br>
+                <div class="outerWrapperBenefits m-0 text-center" style="padding:20px; background-color:#5c0150;">
+                    <p class="blockTextWhite p-0 m-0 text-center">Office Hours:<br>
                          Monday: 08:00 to 16:00<br>
                         Tuesday: 08:00 to 16:00<br>
                         Wednesday: 08:00 to <span style="color:#E8B0FD">12:00</span><br>
@@ -96,7 +96,7 @@
                     </p>
 
                     <div class="row pl-3 pl-0">
-                    <div class="">
+                    <div class="d-none">
                                 <p class="blockTextWhite">
                                 Monday:<br>
                                 Tuesday:<br>
@@ -105,7 +105,7 @@
                                 Friday:
                                 </p>
                             </div>
-                            <div class="">
+                            <div class="d-none">
                                 <p class="blockTextWhite">
                                     08:00 to 16:00<br>
                                     08:00 to 16:00<br>
@@ -118,28 +118,28 @@
                 </div>
 
                 <div class="outerWrapperBenefits m-0" style="padding:20px; background-color:#b8b8b8;">
-                   <div class="d-none">
-                    <p class="blockTextWhite p-0 m-0">Physical Address:</p>
-                        <p class="blockTextWhite p-0 m-0">Mooikloof Office Park East
+                   <div class="">
+                    <p class="blockTextWhite p-0 m-0 text-center">Physical Address:</p>
+                        <p class="blockTextWhite p-0 m-0 text-center">Mooikloof Office Park East
                             c/o Atterbury and Jollify Main Road,<br>
                             Mooikloof<br>
                             Pretoria, Gauteng,<br>
                             South Africa</p><br>
 
-                        <p class="blockTextWhite p-0 m-0">Postal Address:</p>
-                        <p class="blockTextWhite p-0 m-0"> P.O.Box 35580<br>
+                        <p class="blockTextWhite p-0 m-0 text-center">Postal Address:</p>
+                        <p class="blockTextWhite p-0 m-0 text-center"> P.O.Box 35580<br>
                             Menlopark, 0102</p> <br>
 
                    </div>
 
                 <div class="row pl-3">
-                    <div class="" style="width:170px">
+                    <div class="d-none" style="width:170px">
                                 <p class="blockTextWhite">
                                 Physical Address:<br><br><br><br><br><br><br>
                                 Postal Address:<br>
                                 </p>
                             </div>
-                            <div class="">
+                            <div class="d-none">
                                 <p class="blockTextWhite">
                                     Mooikloof Office Park East<br>
                                     c/o Atterbury and Jollify Main Road,<br>
@@ -161,7 +161,7 @@
 
             </div>
             <div class="left-div">
-            <a href="https://www.qvc.co.za/specials.php" target="_blank"><img id="members_special_img"
+            <a href="specials.php" target="_blank"><img id="members_special_img"
                         src="https://www.qvc.co.za/mailers/festive-season/web%20badge_2.jpg" alt="Members Specials"
                         width="355"></a><br><br>
 
