@@ -63,11 +63,11 @@
         </div>
         <div class="explore-column" style="background-color:#dfdfdf;">
             <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start" style="color:white;">
-                <a href="contact_us.php" class="footerContactLinks">Contact us</a>
-                <a href="privacy_policy.php" class="footerContactLinks">Privacy Policy</a>
-                <a href="terms_of_use.php" class="footerContactLinks">Terms &amp; Conditions</a></p>
+                <a href="../contact_us.php" class="footerContactLinks">Contact us</a>
+                <a href="../privacy_policy.php" class="footerContactLinks">Privacy Policy</a>
+                <a href="../terms_of_use.php" class="footerContactLinks">Terms &amp; Conditions</a></p>
                 <p class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start">QVC Managing Agent</p>
-                <a href="vrs.php" class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start"><img src="../images/VRS_logo.png" width="150" height="54" border="0"></a><br>
+                <a href="../vrs.php" class="footerText d-flex flex-column align-items-center align-items-xl-start align-items-md-center align-items-lg-start"><img src="../images/VRS_logo.png" width="150" height="54" border="0"></a><br>
         &nbsp;&nbsp;&nbsp;&nbsp; 
         </div>
     </div>

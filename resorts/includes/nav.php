@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color: white;">
     <div class="container">
-      <a class="navbar-brand" href="../our_club.php"><img class="img-responsive" src="../images/logo.jpg"
+      <a class="navbar-brand" href="../index.php"><img class="img-responsive" src="../images/logo.jpg"
           alt="Quality Vacation Club Logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
