@@ -144,5 +144,15 @@
 			<td style="font-family:Century Gothic; font-size:11px; color:#666; text-align:justify">Offer valid for travel and accommodation until 31 May 2017 | Accommodation is subject to availability at the time of reservation | The above is a quotation only | No prior reservations have been made and rates are subject to ‘N’ class availability on RwandAir | The airline reserves the right the amend the fare at any time | Children rates on request | Guests can upgrade to a Pool Room at an additional R 50 per person per night and a Creek Room at an additional R 80 per person per night | Honeymoon Suite and gifts available on request | Package is quoted on bed and breakfast basis, guest can upgrade to Half-board to include Dinner at an additional R200 per day or upgrade to Full Board at an additional R350 to include lunch| Prices are subject to change without notice | Accommodation is subject to availability at the time of reservation | Single room supplements will apply during peak season |Standard ACT Terms & Conditions apply.</td>
 		</tr>
 </table>
-</body>
+<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2196019-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script></body>
 </html>
