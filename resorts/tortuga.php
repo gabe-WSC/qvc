@@ -16,7 +16,7 @@ resortData('caribbean estates tortuga');
 	<link rel="stylesheet" href="../css/lightbox.css">
 
   <?php include('includes/header.php');?>
-  <title>QVC</title>
+  <title>QVC - Tortuga</title>
 </head>
 
 <body>

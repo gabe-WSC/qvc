@@ -14,7 +14,7 @@ resortData('durban spa');
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Karla%7CMontserrat">
   
   <?php include('includes/header.php');?>
-  <title>QVC</title>
+  <title>QVC - Durban Spa</title>
 </head>
 
 <body>

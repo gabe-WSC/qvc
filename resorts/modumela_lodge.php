@@ -13,7 +13,7 @@ resortData('modumela');
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <?php include('includes/header.php');?>
-  <title>QVC</title>
+  <title>QVC - Modumela Lodge</title>
 </head>
 
 <body>

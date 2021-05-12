@@ -11,7 +11,7 @@ $current_page = "resort_portfolio.php";
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <?php include('includes/header.php');?>
-    <title>QVC</title>
+    <title>QVC- Resort Portfolio</title>
 </head>
 
 <body>

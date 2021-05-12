@@ -11,7 +11,7 @@
 
     <?php include('includes/header.php');?>
     <link rel="stylesheet" href="css/accordion.css">
-    <title>QVC - FAQs</title>
+    <title>QVC - Members Feedback</title>
 
     <!-- <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script> -->

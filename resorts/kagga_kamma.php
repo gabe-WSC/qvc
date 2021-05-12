@@ -15,7 +15,7 @@ resortData('kagga kamma');
 	<!-- <link rel="stylesheet" href="../css/screen.css"> -->
   
   <?php include('includes/header.php');?>
-  <title>QVC</title>
+  <title>QVC - Kagga Kamma</title>
 </head>
 
 <body>
